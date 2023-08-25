@@ -1,0 +1,14 @@
+name = "John Doe"
+
+[age]
+years = 50
+
+[location]
+city = "Los Angeles"
+state = "CA"
+country = "USA"
+
+[interests]
+hobbies = [ "Cooking", "Swimming", "Reading",]
+languages = [ "German", "English",]
+favorite_books = [ "Pride and Prejudice", "To Kill a Mockingbird", "The Catcher in the Rye",]

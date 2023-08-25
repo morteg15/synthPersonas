@@ -1,0 +1,14 @@
+name = "Charlie Green"
+
+[age]
+years = 54
+
+[location]
+city = "Chicago"
+state = "IL"
+country = "USA"
+
+[interests]
+hobbies = [ "Swimming", "Cycling", "Cooking",]
+languages = [ "German", "Mandarin",]
+favorite_books = [ "The Catcher in the Rye", "1984", "Moby Dick",]

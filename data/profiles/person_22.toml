@@ -1,0 +1,14 @@
+name = "John Doe"
+
+[age]
+years = 20
+
+[location]
+city = "New York"
+state = "NY"
+country = "Canada"
+
+[interests]
+hobbies = [ "Swimming", "Cooking", "Gaming",]
+languages = [ "Mandarin", "French",]
+favorite_books = [ "Moby Dick", "To Kill a Mockingbird", "Pride and Prejudice",]

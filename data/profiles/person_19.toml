@@ -1,0 +1,14 @@
+name = "Charlie Green"
+
+[age]
+years = 54
+
+[location]
+city = "New York"
+state = "TX"
+country = "Germany"
+
+[interests]
+hobbies = [ "Reading", "Swimming", "Cycling",]
+languages = [ "English", "Mandarin",]
+favorite_books = [ "The Catcher in the Rye", "1984", "Pride and Prejudice",]

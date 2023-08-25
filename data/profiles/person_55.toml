@@ -1,0 +1,14 @@
+name = "Bob Brown"
+
+[age]
+years = 52
+
+[location]
+city = "Chicago"
+state = "TX"
+country = "USA"
+
+[interests]
+hobbies = [ "Swimming", "Reading", "Cooking",]
+languages = [ "English", "Spanish",]
+favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "Moby Dick",]

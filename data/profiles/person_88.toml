@@ -1,0 +1,14 @@
+name = "Bob Brown"
+
+[age]
+years = 44
+
+[location]
+city = "Chicago"
+state = "TX"
+country = "Germany"
+
+[interests]
+hobbies = [ "Reading", "Cooking", "Gaming",]
+languages = [ "German", "Mandarin",]
+favorite_books = [ "1984", "Moby Dick", "The Catcher in the Rye",]

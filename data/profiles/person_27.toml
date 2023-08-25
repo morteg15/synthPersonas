@@ -1,0 +1,14 @@
+name = "Jane Smith"
+
+[age]
+years = 39
+
+[location]
+city = "Chicago"
+state = "IL"
+country = "Germany"
+
+[interests]
+hobbies = [ "Reading", "Cooking", "Gaming",]
+languages = [ "English", "French",]
+favorite_books = [ "To Kill a Mockingbird", "1984", "Pride and Prejudice",]

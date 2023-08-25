@@ -1,0 +1,14 @@
+name = "Bob Brown"
+
+[age]
+years = 43
+
+[location]
+city = "Houston"
+state = "CA"
+country = "UK"
+
+[interests]
+hobbies = [ "Cooking", "Gaming", "Cycling",]
+languages = [ "Mandarin", "German",]
+favorite_books = [ "The Catcher in the Rye", "Pride and Prejudice", "Moby Dick",]

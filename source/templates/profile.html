@@ -30,11 +30,23 @@
         <li>{{ book }}</li>
         {% endfor %}
     </ul>
+    <h2>Questions and Answers:</h2>
+    <div>
+        {% for qa in person.question_and_answer %}
+            <div class="qa-section">
+                <h3>Question:</h3>
+                <p>{{ qa.question }}</p>
+                <h3>Answer:</h3>
+                <p>{{ qa.answer }}</p>
+            </div>
+        {% endfor %}
+    </div>
 
     <!-- Simple navigation to move between profiles -->
     <div>
-        <a href="{{ url_for('display_profile', profile_id=profile_id-1) if profile_id > 1 else '#' }}">Previous</a> |
-        <a href="{{ url_for('display_profile', profile_id=profile_id+1) }}">Next</a>
+        <a href="{{ url_for('display_profile', session_name=session_name, profile_id=profile_id-1) if profile_id > 1 else '#' }}">Previous</a> |
+        <a href="{{ url_for('display_profile', session_name=session_name, profile_id=profile_id+1) }}">Next</a>
     </div>
+
 </body>
 </html>

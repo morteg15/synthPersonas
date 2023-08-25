@@ -1,0 +1,14 @@
+name = "John Doe"
+
+[age]
+years = 41
+
+[location]
+city = "Los Angeles"
+state = "IL"
+country = "Australia"
+
+[interests]
+hobbies = [ "Cycling", "Reading", "Gaming",]
+languages = [ "German", "French",]
+favorite_books = [ "Pride and Prejudice", "The Catcher in the Rye", "1984",]

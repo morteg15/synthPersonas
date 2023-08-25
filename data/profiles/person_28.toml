@@ -1,0 +1,14 @@
+name = "Bob Brown"
+
+[age]
+years = 52
+
+[location]
+city = "Los Angeles"
+state = "TX"
+country = "Germany"
+
+[interests]
+hobbies = [ "Gaming", "Swimming", "Reading",]
+languages = [ "Spanish", "Mandarin",]
+favorite_books = [ "To Kill a Mockingbird", "The Catcher in the Rye", "Pride and Prejudice",]

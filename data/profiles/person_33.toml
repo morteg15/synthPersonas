@@ -1,0 +1,14 @@
+name = "Jane Smith"
+
+[age]
+years = 59
+
+[location]
+city = "Phoenix"
+state = "CA"
+country = "Australia"
+
+[interests]
+hobbies = [ "Swimming", "Gaming", "Cycling",]
+languages = [ "German", "Mandarin",]
+favorite_books = [ "1984", "Moby Dick", "The Catcher in the Rye",]

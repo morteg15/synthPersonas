@@ -1,0 +1,31 @@
+<!-- landing.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Landing Page</title>
+</head>
+<body>
+    <h1>Welcome to the Q&A Platform</h1>
+    
+    {% if sessions %}
+    <h2>Select a Session</h2>
+    <form action="/select_session" method="post">
+        <select name="selected_session">
+            {% for session in sessions %}
+            <option value="{{ session }}">{{ session }}</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="Select">
+    </form>
+    {% else %}
+    <p>No sessions found. Please ask a new question to start a session.</p>
+    {% endif %}
+    
+    <h2>Ask a New Question</h2>
+    <form action="/ask" method="post">
+        <label for="question">Question:</label>
+        <input type="text" name="question" required>
+        <input type="submit" value="Ask">
+    </form>
+</body>
+</html>

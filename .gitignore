@@ -1,0 +1,6 @@
+.venv
+.vscode
+
+
+source/api/session
+source/api/utils/config.init

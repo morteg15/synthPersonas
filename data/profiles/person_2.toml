@@ -1,0 +1,14 @@
+name = "Charlie Green"
+
+[age]
+years = 18
+
+[location]
+city = "Los Angeles"
+state = "AZ"
+country = "Australia"
+
+[interests]
+hobbies = [ "Gaming", "Cooking", "Reading",]
+languages = [ "English", "French",]
+favorite_books = [ "To Kill a Mockingbird", "Moby Dick", "The Catcher in the Rye",]

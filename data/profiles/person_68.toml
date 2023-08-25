@@ -1,0 +1,14 @@
+name = "Bob Brown"
+
+[age]
+years = 50
+
+[location]
+city = "New York"
+state = "TX"
+country = "USA"
+
+[interests]
+hobbies = [ "Cooking", "Reading", "Swimming",]
+languages = [ "English", "French",]
+favorite_books = [ "Moby Dick", "The Catcher in the Rye", "Pride and Prejudice",]

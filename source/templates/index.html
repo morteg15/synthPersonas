@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Log Viewer</title>
+    <style>
+        .chat-log {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px 0;
+            max-width: 600px;
+        }
+        .message {
+            padding: 5px;
+            margin: 5px 0;
+            border-radius: 5px;
+        }
+        .assistant {
+            background-color: #e6f7ff;
+        }
+        .user {
+            background-color: #fff3e6;
+        }
+    </style>
+</head>
+<body>
+    
+    <h2>Ask a Question:</h2>
+    <form action="/ask" method="post">
+        <input type="text" name="question" placeholder="Enter your question here..." required>
+        <input type="hidden" name="session_name" value="{{ session_name }}"> <!-- Add this line -->
+        <button type="submit">Ask</button>
+    </form>
+    
+
+    <h2>Question:</h2>
+    <p>{{ question }}</p>
+
+    <h2>General Opinion:</h2>
+    <div id="chatContainer"><div class="chat-log">{{ general_opinion }}</div></div>
+
+    <h2>Responses:</h2>
+    <div id="chatContainer">
+        {% for filename, chat_data in profiles_dict.items() %}
+            <div class="chat-log">
+                <!-- Extract profile ID from filename -->
+                {% set profile_id = filename.split('_')[1].split('.')[0] %}
+                
+                <div class="message assistant">
+                    {{ chat_data[1].choices[0].message.content }}
+                    <!-- Add a link to the profile page with session_name -->
+                    <a href="{{ url_for('display_profile', session_name=session_name, profile_id=profile_id) }}">View Profile</a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+    
+    
+</body>
+</html>
