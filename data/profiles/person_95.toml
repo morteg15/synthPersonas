@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Mathea Strand"
+gender = "female"
 
 [age]
-years = 27
+years = 10
 
 [location]
-city = "Los Angeles"
-state = "NY"
-country = "USA"
+fylke = "Sogn og Fjordane"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Swimming", "Gaming", "Cycling",]
-languages = [ "Spanish", "Mandarin",]
-favorite_books = [ "Pride and Prejudice", "The Catcher in the Rye", "1984",]
+hobbies = [ "Origami", "Droneflyging",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Toy Story series", "The Lion King", "Kung Fu Panda series", "The Incredibles series",]
+favorite_influencers = []
+
+[personality]
+openness = 89
+conscientiousness = 27
+extraversion = 4
+agreeableness = 14
+neuroticism = 98

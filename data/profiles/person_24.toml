@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Helene Lund"
+gender = "female"
 
 [age]
-years = 47
+years = 10
 
 [location]
-city = "New York"
-state = "IL"
-country = "USA"
+fylke = "Trøndelag"
+living_condition = "Småby"
 
 [interests]
-hobbies = [ "Cooking", "Swimming", "Gaming",]
-languages = [ "Spanish", "German",]
-favorite_books = [ "Pride and Prejudice", "The Catcher in the Rye", "Moby Dick",]
+hobbies = [ "Synging",]
+languages = [ "Norsk",]
+favorite_books = [ "Where the Wild Things Are", "Bridge to Terabithia",]
+favorite_movies = [ "Frozen series", "The Lion King", "Spider-Man: Into the Spider-Verse", "Despicable Me series",]
+favorite_influencers = [ "Kylie Jenner", "MrBeast", "Selena Gomez", "Ariana Grande", "James Charles",]
+
+[personality]
+openness = 74
+conscientiousness = 59
+extraversion = 19
+agreeableness = 30
+neuroticism = 78

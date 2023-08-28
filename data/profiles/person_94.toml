@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Ella Andersen"
+gender = "female"
 
 [age]
-years = 29
+years = 10
 
 [location]
-city = "Los Angeles"
-state = "AZ"
-country = "Canada"
+fylke = "Østfold"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Cycling", "Swimming", "Gaming",]
-languages = [ "French", "German",]
-favorite_books = [ "1984", "The Catcher in the Rye", "Pride and Prejudice",]
+hobbies = [ "Origami", "Bordspill", "Podcasting", "Poesi", "Svømming",]
+languages = [ "Norsk",]
+favorite_books = [ "Harry Potter series", "Diary of a Wimpy Kid series", "Anne of Green Gables",]
+favorite_movies = [ "Harry Potter series", "Tangled", "How to Train Your Dragon series", "Wreck-It Ralph series",]
+favorite_influencers = [ "TommyInnit", "Jake Paul",]
+
+[personality]
+openness = 83
+conscientiousness = 49
+extraversion = 18
+agreeableness = 72
+neuroticism = 56

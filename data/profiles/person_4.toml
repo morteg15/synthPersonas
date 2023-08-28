@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Maria Iversen"
+gender = "female"
 
 [age]
-years = 20
+years = 11
 
 [location]
-city = "Phoenix"
-state = "CA"
-country = "Australia"
+fylke = "Finnmark"
+living_condition = "Kystområder"
 
 [interests]
-hobbies = [ "Cycling", "Reading", "Gaming",]
-languages = [ "English", "German",]
-favorite_books = [ "The Catcher in the Rye", "To Kill a Mockingbird", "Moby Dick",]
+hobbies = [ "Droneflyging", "Bordspill", "Fjellklatring", "Skulpturering", "Dykking",]
+languages = [ "Norsk",]
+favorite_books = [ "The Gruffalo", "Matilda", "The Hobbit", "The Secret Garden",]
+favorite_movies = []
+favorite_influencers = [ "David Dobrik", "Zach King", "Jake Paul",]
+
+[personality]
+openness = 25
+conscientiousness = 82
+extraversion = 72
+agreeableness = 53
+neuroticism = 5

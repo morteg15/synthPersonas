@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Isak Johnsen"
+gender = "male"
 
 [age]
-years = 20
+years = 15
 
 [location]
-city = "New York"
-state = "AZ"
-country = "UK"
+fylke = "Aust-Agder"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Cycling", "Reading", "Swimming",]
-languages = [ "German", "English",]
-favorite_books = [ "1984", "Moby Dick", "Pride and Prejudice",]
+hobbies = [ "Droneflyging",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Monsters, Inc. series", "Zootopia", "Finding Nemo series", "Despicable Me series", "The Lion King",]
+favorite_influencers = [ "Spencer X",]
+
+[personality]
+openness = 69
+conscientiousness = 8
+extraversion = 98
+agreeableness = 1
+neuroticism = 83

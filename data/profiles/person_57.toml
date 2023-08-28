@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Kristian Olsen"
+gender = "male"
 
 [age]
-years = 47
+years = 16
 
 [location]
-city = "Los Angeles"
-state = "AZ"
-country = "Germany"
+fylke = "Trøndelag"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Gaming", "Cooking", "Reading",]
-languages = [ "Spanish", "German",]
-favorite_books = [ "Pride and Prejudice", "The Catcher in the Rye", "1984",]
+hobbies = [ "Fisking", "Skjønnlitterær skriving", "Droneflyging", "Fugletitting", "Dataspill",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "The Lion King", "Frozen series", "Toy Story series", "Tangled",]
+favorite_influencers = [ "FGTeeV", "KSI", "Ariana Grande", "Dwayne 'The Rock' Johnson",]
+
+[personality]
+openness = 60
+conscientiousness = 93
+extraversion = 72
+agreeableness = 72
+neuroticism = 74

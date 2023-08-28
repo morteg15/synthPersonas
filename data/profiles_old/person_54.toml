@@ -1,0 +1,14 @@
+name = "Jane Smith"
+
+[age]
+years = 48
+
+[location]
+city = "Chicago"
+state = "IL"
+country = "Canada"
+
+[interests]
+hobbies = [ "Cycling", "Cooking", "Reading",]
+languages = [ "Spanish", "German",]
+favorite_books = [ "1984", "Pride and Prejudice", "The Catcher in the Rye",]

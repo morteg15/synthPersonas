@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Elise Johnsen"
+gender = "female"
 
 [age]
-years = 59
+years = 7
 
 [location]
-city = "Los Angeles"
-state = "AZ"
-country = "UK"
+fylke = "Nordland"
+living_condition = "Fjellområder"
 
 [interests]
-hobbies = [ "Cooking", "Gaming", "Swimming",]
-languages = [ "German", "Mandarin",]
-favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "The Catcher in the Rye",]
+hobbies = [ "Fotball", "Språklæring", "Bloggskriving", "Baking", "Jogging",]
+languages = [ "Norsk",]
+favorite_books = [ "Harry Potter series", "The Gruffalo", "Wonder", "Lord of the Flies",]
+favorite_movies = []
+favorite_influencers = [ "Unspeakable", "Billie Eilish",]
+
+[personality]
+openness = 12
+conscientiousness = 49
+extraversion = 97
+agreeableness = 55
+neuroticism = 9

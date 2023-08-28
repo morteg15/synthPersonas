@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Jenny Henriksen"
+gender = "female"
 
 [age]
-years = 50
+years = 13
 
 [location]
-city = "Chicago"
-state = "NY"
-country = "USA"
+fylke = "Finnmark"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Cooking", "Swimming", "Reading",]
-languages = [ "French", "English",]
-favorite_books = [ "1984", "The Catcher in the Rye", "Moby Dick",]
+hobbies = [ "Lesing",]
+languages = [ "Norsk",]
+favorite_books = [ "Alice's Adventures in Wonderland", "Holes", "Lord of the Flies", "The BFG", "The Hobbit",]
+favorite_movies = []
+favorite_influencers = [ "KSI", "Zach King", "JoJo Siwa",]
+
+[personality]
+openness = 29
+conscientiousness = 10
+extraversion = 17
+agreeableness = 91
+neuroticism = 57

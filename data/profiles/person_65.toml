@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Julie Sørensen"
+gender = "female"
 
 [age]
-years = 26
+years = 12
 
 [location]
-city = "Los Angeles"
-state = "AZ"
-country = "UK"
+fylke = "Sogn og Fjordane"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Swimming", "Cycling", "Cooking",]
-languages = [ "French", "German",]
-favorite_books = [ "1984", "The Catcher in the Rye", "Moby Dick",]
+hobbies = [ "Fjellklatring",]
+languages = [ "Norsk",]
+favorite_books = [ "Percy Jackson & the Olympians series", "Bridge to Terabithia", "The Chronicles of Narnia series",]
+favorite_movies = [ "Tangled", "The Hunger Games series", "Big Hero 6", "Moana", "How to Train Your Dragon series",]
+favorite_influencers = [ "Dixie D'Amelio", "Selena Gomez",]
+
+[personality]
+openness = 93
+conscientiousness = 42
+extraversion = 94
+agreeableness = 70
+neuroticism = 27

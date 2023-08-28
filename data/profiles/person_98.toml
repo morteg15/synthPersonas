@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Oliver Moen"
+gender = "male"
 
 [age]
-years = 54
+years = 11
 
 [location]
-city = "Houston"
-state = "NY"
-country = "UK"
+fylke = "Vest-Agder"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Reading", "Swimming", "Cycling",]
-languages = [ "German", "Spanish",]
-favorite_books = [ "1984", "To Kill a Mockingbird", "Moby Dick",]
+hobbies = []
+languages = [ "Norsk",]
+favorite_books = [ "Holes",]
+favorite_movies = [ "The Incredibles series",]
+favorite_influencers = [ "James Charles",]
+
+[personality]
+openness = 48
+conscientiousness = 49
+extraversion = 94
+agreeableness = 64
+neuroticism = 71

@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Helene Olsen"
+gender = "female"
 
 [age]
-years = 20
+years = 14
 
 [location]
-city = "Chicago"
-state = "NY"
-country = "UK"
+fylke = "Akershus"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Gaming", "Cycling", "Cooking",]
-languages = [ "German", "French",]
-favorite_books = [ "Pride and Prejudice", "Moby Dick", "To Kill a Mockingbird",]
+hobbies = [ "Astronomi",]
+languages = [ "Norsk",]
+favorite_books = [ "Holes", "Harry Potter series", "Matilda", "The Hunger Games series",]
+favorite_movies = [ "Harry Potter series", "Wreck-It Ralph series", "Tangled", "Toy Story series",]
+favorite_influencers = [ "Zoe Laverne", "Emma Chamberlain",]
+
+[personality]
+openness = 57
+conscientiousness = 50
+extraversion = 77
+agreeableness = 57
+neuroticism = 91

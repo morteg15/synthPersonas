@@ -1,0 +1,14 @@
+name = "Jane Smith"
+
+[age]
+years = 56
+
+[location]
+city = "New York"
+state = "AZ"
+country = "USA"
+
+[interests]
+hobbies = [ "Gaming", "Cooking", "Swimming",]
+languages = [ "German", "English",]
+favorite_books = [ "Pride and Prejudice", "The Catcher in the Rye", "To Kill a Mockingbird",]

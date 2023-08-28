@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Jenny Johannessen"
+gender = "female"
 
 [age]
-years = 51
+years = 12
 
 [location]
-city = "Phoenix"
-state = "IL"
-country = "UK"
+fylke = "Aust-Agder"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Reading", "Gaming", "Cycling",]
-languages = [ "German", "Spanish",]
-favorite_books = [ "1984", "Moby Dick", "To Kill a Mockingbird",]
+hobbies = [ "Volleyball", "Bordspill",]
+languages = [ "Norsk",]
+favorite_books = [ "The Giver", "The Chronicles of Narnia series", "The Hunger Games series", "Holes", "The Gruffalo",]
+favorite_movies = [ "Tangled", "Despicable Me series", "The Incredibles series", "The Hunger Games series", "The Lion King",]
+favorite_influencers = []
+
+[personality]
+openness = 72
+conscientiousness = 30
+extraversion = 5
+agreeableness = 11
+neuroticism = 78

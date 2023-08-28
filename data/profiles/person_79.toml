@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Amalie Andersen"
+gender = "female"
 
 [age]
-years = 41
+years = 11
 
 [location]
-city = "Chicago"
-state = "IL"
-country = "USA"
+fylke = "Rogaland"
+living_condition = "Flatlands"
 
 [interests]
-hobbies = [ "Cycling", "Cooking", "Swimming",]
-languages = [ "Mandarin", "Spanish",]
-favorite_books = [ "The Catcher in the Rye", "To Kill a Mockingbird", "Moby Dick",]
+hobbies = [ "Modellbygging", "Spille et musikkinstrument",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Moana", "The Lion King", "Frozen series",]
+favorite_influencers = [ "Chris Hemsworth", "Spencer X", "Unspeakable",]
+
+[personality]
+openness = 88
+conscientiousness = 52
+extraversion = 89
+agreeableness = 2
+neuroticism = 43

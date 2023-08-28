@@ -1,0 +1,14 @@
+name = "John Doe"
+
+[age]
+years = 35
+
+[location]
+city = "Houston"
+state = "IL"
+country = "USA"
+
+[interests]
+hobbies = [ "Swimming", "Reading", "Cooking",]
+languages = [ "French", "Spanish",]
+favorite_books = [ "The Catcher in the Rye", "Moby Dick", "Pride and Prejudice",]

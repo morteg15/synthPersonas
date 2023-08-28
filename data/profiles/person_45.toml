@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Olivia Sørensen"
+gender = "female"
 
 [age]
-years = 20
+years = 16
 
 [location]
-city = "New York"
-state = "NY"
-country = "USA"
+fylke = "Finnmark"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Swimming", "Reading", "Cooking",]
-languages = [ "French", "German",]
-favorite_books = [ "Moby Dick", "Pride and Prejudice", "To Kill a Mockingbird",]
+hobbies = []
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Frozen series",]
+favorite_influencers = [ "Dream",]
+
+[personality]
+openness = 23
+conscientiousness = 96
+extraversion = 16
+agreeableness = 46
+neuroticism = 89

@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Emma Kristiansen"
+gender = "female"
 
 [age]
-years = 54
+years = 8
 
 [location]
-city = "Chicago"
-state = "IL"
-country = "USA"
+fylke = "Vestfold"
+living_condition = "Flatlands"
 
 [interests]
-hobbies = [ "Swimming", "Cycling", "Cooking",]
-languages = [ "German", "Mandarin",]
-favorite_books = [ "The Catcher in the Rye", "1984", "Moby Dick",]
+hobbies = [ "Dataspill", "Sykling", "Baking",]
+languages = [ "Norsk",]
+favorite_books = [ "Wonder", "Matilda",]
+favorite_movies = [ "Frozen series", "Big Hero 6", "Tangled", "Despicable Me series",]
+favorite_influencers = [ "Jake Paul", "JoJo Siwa",]
+
+[personality]
+openness = 13
+conscientiousness = 46
+extraversion = 38
+agreeableness = 45
+neuroticism = 22

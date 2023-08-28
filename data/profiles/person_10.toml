@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Sofie Kristiansen"
+gender = "female"
 
 [age]
-years = 31
+years = 13
 
 [location]
-city = "Houston"
-state = "TX"
-country = "USA"
+fylke = "Troms"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Cycling", "Cooking", "Swimming",]
-languages = [ "English", "French",]
-favorite_books = [ "The Catcher in the Rye", "1984", "Pride and Prejudice",]
+hobbies = [ "Surfing", "Gartneri", "Poesi",]
+languages = [ "Norsk",]
+favorite_books = [ "The Secret Garden",]
+favorite_movies = [ "Kung Fu Panda series", "Harry Potter series", "Big Hero 6", "The Hunger Games series", "Zootopia",]
+favorite_influencers = [ "Addison Rae", "Ariana Grande", "Charli D'Amelio", "PewDiePie",]
+
+[personality]
+openness = 19
+conscientiousness = 12
+extraversion = 22
+agreeableness = 61
+neuroticism = 67

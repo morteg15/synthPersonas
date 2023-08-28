@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Maja Jensen"
+gender = "female"
 
 [age]
-years = 36
+years = 12
 
 [location]
-city = "Los Angeles"
-state = "AZ"
-country = "Germany"
+fylke = "Telemark"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Gaming", "Cooking", "Swimming",]
-languages = [ "Mandarin", "Spanish",]
-favorite_books = [ "The Catcher in the Rye", "Pride and Prejudice", "To Kill a Mockingbird",]
+hobbies = [ "Skating", "Tennis",]
+languages = [ "Norsk",]
+favorite_books = [ "The BFG",]
+favorite_movies = [ "Zootopia", "Frozen series", "Percy Jackson series",]
+favorite_influencers = [ "PewDiePie", "Loren Gray", "Charli D'Amelio", "KSI", "TommyInnit",]
+
+[personality]
+openness = 29
+conscientiousness = 40
+extraversion = 66
+agreeableness = 32
+neuroticism = 71

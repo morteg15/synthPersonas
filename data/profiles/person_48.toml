@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Kristian Larsen"
+gender = "male"
 
 [age]
-years = 37
+years = 14
 
 [location]
-city = "Houston"
-state = "NY"
-country = "USA"
+fylke = "Møre og Romsdal"
+living_condition = "Småby"
 
 [interests]
-hobbies = [ "Cycling", "Reading", "Gaming",]
-languages = [ "French", "German",]
-favorite_books = [ "The Catcher in the Rye", "To Kill a Mockingbird", "1984",]
+hobbies = [ "Dataspill", "Fugletitting",]
+languages = [ "Norsk",]
+favorite_books = [ "The Chronicles of Narnia series", "Where the Wild Things Are", "Lord of the Flies", "The BFG",]
+favorite_movies = [ "Finding Nemo series", "The Incredibles series", "Monsters, Inc. series", "Despicable Me series",]
+favorite_influencers = [ "Logan Paul", "Billie Eilish",]
+
+[personality]
+openness = 1
+conscientiousness = 72
+extraversion = 27
+agreeableness = 74
+neuroticism = 35

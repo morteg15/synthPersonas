@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Fredrik Haugen"
+gender = "male"
 
 [age]
-years = 21
+years = 11
 
 [location]
-city = "Chicago"
-state = "AZ"
-country = "Canada"
+fylke = "Troms"
+living_condition = "Kystområder"
 
 [interests]
-hobbies = [ "Cooking", "Gaming", "Cycling",]
-languages = [ "English", "Mandarin",]
-favorite_books = [ "To Kill a Mockingbird", "1984", "Moby Dick",]
+hobbies = [ "Fotball",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = []
+favorite_influencers = [ "TommyInnit", "Brent Rivera",]
+
+[personality]
+openness = 88
+conscientiousness = 47
+extraversion = 42
+agreeableness = 12
+neuroticism = 84

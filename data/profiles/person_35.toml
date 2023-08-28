@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Viktor Haugen"
+gender = "male"
 
 [age]
-years = 41
+years = 9
 
 [location]
-city = "New York"
-state = "AZ"
-country = "Germany"
+fylke = "Buskerud"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Cycling", "Cooking", "Gaming",]
-languages = [ "French", "German",]
-favorite_books = [ "The Catcher in the Rye", "1984", "To Kill a Mockingbird",]
+hobbies = [ "Jogging", "Tennis", "Myntsamling", "Tegning",]
+languages = [ "Norsk",]
+favorite_books = [ "The Chronicles of Narnia series", "Bridge to Terabithia",]
+favorite_movies = [ "Spider-Man: Into the Spider-Verse", "Frozen series",]
+favorite_influencers = [ "Flamingo", "Brent Rivera", "FGTeeV", "TommyInnit",]
+
+[personality]
+openness = 92
+conscientiousness = 34
+extraversion = 91
+agreeableness = 62
+neuroticism = 30

@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Amalie Hagen"
+gender = "female"
 
 [age]
-years = 53
+years = 16
 
 [location]
-city = "New York"
-state = "TX"
-country = "USA"
+fylke = "Oppland"
+living_condition = "Kystområder"
 
 [interests]
-hobbies = [ "Gaming", "Reading", "Cooking",]
-languages = [ "Spanish", "French",]
-favorite_books = [ "1984", "Pride and Prejudice", "To Kill a Mockingbird",]
+hobbies = [ "Myntsamling", "Astronomi", "Fugletitting", "Origami", "Synging",]
+languages = [ "Norsk",]
+favorite_books = [ "The Wind in the Willows", "To Kill a Mockingbird", "The Hunger Games series",]
+favorite_movies = []
+favorite_influencers = [ "Ariana Grande", "Spencer X", "Brent Rivera", "MrBeast", "Will Smith",]
+
+[personality]
+openness = 76
+conscientiousness = 46
+extraversion = 72
+agreeableness = 79
+neuroticism = 12

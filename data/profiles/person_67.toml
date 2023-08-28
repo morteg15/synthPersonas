@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Markus Dahl"
+gender = "male"
 
 [age]
-years = 32
+years = 9
 
 [location]
-city = "New York"
-state = "IL"
-country = "Canada"
+fylke = "Telemark"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Cycling", "Cooking", "Swimming",]
-languages = [ "German", "Mandarin",]
-favorite_books = [ "Moby Dick", "To Kill a Mockingbird", "1984",]
+hobbies = [ "Digital kunst", "Dykking", "Heikling",]
+languages = [ "Norsk",]
+favorite_books = [ "The Hunger Games series", "Anne of Green Gables", "Alice's Adventures in Wonderland", "The Hobbit", "The Giver",]
+favorite_movies = []
+favorite_influencers = [ "Dream", "David Dobrik", "Brent Rivera",]
+
+[personality]
+openness = 7
+conscientiousness = 59
+extraversion = 40
+agreeableness = 69
+neuroticism = 26

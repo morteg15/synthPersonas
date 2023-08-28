@@ -1,0 +1,14 @@
+name = "Bob Brown"
+
+[age]
+years = 31
+
+[location]
+city = "Houston"
+state = "IL"
+country = "UK"
+
+[interests]
+hobbies = [ "Cycling", "Swimming", "Reading",]
+languages = [ "German", "Spanish",]
+favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "Moby Dick",]

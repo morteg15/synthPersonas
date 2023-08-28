@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Nora Andreassen"
+gender = "female"
 
 [age]
-years = 20
+years = 16
 
 [location]
-city = "Phoenix"
-state = "CA"
-country = "Canada"
+fylke = "Rogaland"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Cycling", "Gaming", "Cooking",]
-languages = [ "English", "French",]
-favorite_books = [ "Pride and Prejudice", "The Catcher in the Rye", "Moby Dick",]
+hobbies = [ "Jogging",]
+languages = [ "Norsk",]
+favorite_books = [ "The Hunger Games series", "Lord of the Flies", "The Gruffalo", "The Giver", "Matilda",]
+favorite_movies = [ "Moana", "Percy Jackson series",]
+favorite_influencers = [ "Dwayne 'The Rock' Johnson", "Lele Pons",]
+
+[personality]
+openness = 3
+conscientiousness = 90
+extraversion = 32
+agreeableness = 4
+neuroticism = 30

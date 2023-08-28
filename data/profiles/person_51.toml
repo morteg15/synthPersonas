@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Magnus Halvorsen"
+gender = "male"
 
 [age]
-years = 56
+years = 16
 
 [location]
-city = "Phoenix"
-state = "AZ"
-country = "Australia"
+fylke = "Østfold"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Cycling", "Cooking", "Reading",]
-languages = [ "English", "French",]
-favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "The Catcher in the Rye",]
+hobbies = [ "Kalligrafi", "Maling",]
+languages = [ "Norsk",]
+favorite_books = [ "Charlotte's Web", "Lord of the Flies", "The Giver", "The Chronicles of Narnia series", "The BFG",]
+favorite_movies = [ "Percy Jackson series", "Kung Fu Panda series",]
+favorite_influencers = [ "Dixie D'Amelio", "Unspeakable", "Chris Hemsworth",]
+
+[personality]
+openness = 94
+conscientiousness = 21
+extraversion = 62
+agreeableness = 10
+neuroticism = 50

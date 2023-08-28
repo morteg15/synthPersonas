@@ -1,0 +1,14 @@
+name = "Bob Brown"
+
+[age]
+years = 35
+
+[location]
+city = "Houston"
+state = "TX"
+country = "Canada"
+
+[interests]
+hobbies = [ "Cycling", "Reading", "Gaming",]
+languages = [ "Spanish", "French",]
+favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "Moby Dick",]

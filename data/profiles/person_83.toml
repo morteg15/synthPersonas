@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Ingrid Sørensen"
+gender = "female"
 
 [age]
-years = 30
+years = 10
 
 [location]
-city = "Chicago"
-state = "IL"
-country = "Canada"
+fylke = "Østfold"
+living_condition = "Øy"
 
 [interests]
-hobbies = [ "Cycling", "Cooking", "Gaming",]
-languages = [ "French", "German",]
-favorite_books = [ "1984", "Pride and Prejudice", "Moby Dick",]
+hobbies = [ "Matlaging", "Modellbygging", "Bloggskriving", "Puslespill", "Reising",]
+languages = [ "Norsk",]
+favorite_books = [ "The Gruffalo", "Anne of Green Gables", "Percy Jackson & the Olympians series", "The BFG", "The Secret Garden",]
+favorite_movies = [ "Wreck-It Ralph series", "Despicable Me series", "Big Hero 6", "Finding Nemo series",]
+favorite_influencers = [ "Dixie D'Amelio", "FGTeeV", "Ariana Grande", "Jake Paul", "Spencer X",]
+
+[personality]
+openness = 29
+conscientiousness = 83
+extraversion = 21
+agreeableness = 21
+neuroticism = 21

@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Tuva Hansen"
+gender = "female"
 
 [age]
-years = 35
+years = 10
 
 [location]
-city = "Houston"
-state = "TX"
-country = "Canada"
+fylke = "Møre og Romsdal"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Cycling", "Reading", "Gaming",]
-languages = [ "Spanish", "French",]
-favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "Moby Dick",]
+hobbies = [ "Kalligrafi",]
+languages = [ "Norsk",]
+favorite_books = [ "Lord of the Flies",]
+favorite_movies = [ "Despicable Me series", "Moana",]
+favorite_influencers = [ "Bella Poarch", "Will Smith", "Billie Eilish",]
+
+[personality]
+openness = 51
+conscientiousness = 82
+extraversion = 5
+agreeableness = 86
+neuroticism = 47

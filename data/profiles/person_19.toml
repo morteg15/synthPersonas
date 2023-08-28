@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Leo Pedersen"
+gender = "male"
 
 [age]
-years = 54
+years = 11
 
 [location]
-city = "New York"
-state = "TX"
-country = "Germany"
+fylke = "Trøndelag"
+living_condition = "Småby"
 
 [interests]
-hobbies = [ "Reading", "Swimming", "Cycling",]
-languages = [ "English", "Mandarin",]
-favorite_books = [ "The Catcher in the Rye", "1984", "Pride and Prejudice",]
+hobbies = [ "Meditasjon", "Kalligrafi",]
+languages = [ "Norsk",]
+favorite_books = [ "The Hobbit",]
+favorite_movies = [ "Harry Potter series", "The Lion King", "Toy Story series", "Finding Nemo series",]
+favorite_influencers = [ "Logan Paul", "Dwayne 'The Rock' Johnson",]
+
+[personality]
+openness = 45
+conscientiousness = 21
+extraversion = 75
+agreeableness = 57
+neuroticism = 44

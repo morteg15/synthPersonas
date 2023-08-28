@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Sofie Strand"
+gender = "female"
 
 [age]
-years = 52
+years = 8
 
 [location]
-city = "Phoenix"
-state = "NY"
-country = "Australia"
+fylke = "Oppland"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Reading", "Cycling", "Cooking",]
-languages = [ "French", "German",]
-favorite_books = [ "Moby Dick", "Pride and Prejudice", "The Catcher in the Rye",]
+hobbies = [ "Poesi", "Skulpturering", "Wandern", "Kampsport",]
+languages = [ "Norsk",]
+favorite_books = [ "The BFG", "Bridge to Terabithia", "The Secret Garden",]
+favorite_movies = [ "The Hunger Games series", "Big Hero 6", "Wreck-It Ralph series", "Monsters, Inc. series",]
+favorite_influencers = []
+
+[personality]
+openness = 3
+conscientiousness = 92
+extraversion = 90
+agreeableness = 17
+neuroticism = 30

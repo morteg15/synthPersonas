@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "David Jensen"
+gender = "male"
 
 [age]
-years = 26
+years = 17
 
 [location]
-city = "New York"
-state = "TX"
-country = "Germany"
+fylke = "Hedmark"
+living_condition = "Kystområder"
 
 [interests]
-hobbies = [ "Swimming", "Gaming", "Reading",]
-languages = [ "Mandarin", "English",]
-favorite_books = [ "Pride and Prejudice", "To Kill a Mockingbird", "1984",]
+hobbies = []
+languages = [ "Norsk",]
+favorite_books = [ "Percy Jackson & the Olympians series", "The Gruffalo", "Diary of a Wimpy Kid series", "The Wind in the Willows", "Charlotte's Web",]
+favorite_movies = [ "Shrek series", "Finding Nemo series",]
+favorite_influencers = [ "PewDiePie", "Selena Gomez", "Bella Poarch", "Loren Gray", "5-Minute Crafts",]
+
+[personality]
+openness = 62
+conscientiousness = 69
+extraversion = 97
+agreeableness = 11
+neuroticism = 1

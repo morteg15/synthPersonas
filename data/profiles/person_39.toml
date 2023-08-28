@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Ingrid Paulsen"
+gender = "female"
 
 [age]
-years = 59
+years = 14
 
 [location]
-city = "Houston"
-state = "NY"
-country = "UK"
+fylke = "Nordland"
+living_condition = "Fjellområder"
 
 [interests]
-hobbies = [ "Swimming", "Gaming", "Reading",]
-languages = [ "Mandarin", "German",]
-favorite_books = [ "1984", "Pride and Prejudice", "To Kill a Mockingbird",]
+hobbies = [ "Språklæring", "Skulpturering", "Kampsport",]
+languages = [ "Norsk",]
+favorite_books = [ "Alice's Adventures in Wonderland", "Bridge to Terabithia", "Anne of Green Gables", "Percy Jackson & the Olympians series",]
+favorite_movies = [ "Tangled",]
+favorite_influencers = [ "Addison Rae", "Flamingo", "JoJo Siwa",]
+
+[personality]
+openness = 9
+conscientiousness = 40
+extraversion = 55
+agreeableness = 80
+neuroticism = 89

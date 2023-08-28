@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Nora Andreassen"
+gender = "female"
 
 [age]
-years = 50
+years = 15
 
 [location]
-city = "Los Angeles"
-state = "TX"
-country = "USA"
+fylke = "Buskerud"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Swimming", "Cycling", "Gaming",]
-languages = [ "English", "Spanish",]
-favorite_books = [ "To Kill a Mockingbird", "Moby Dick", "The Catcher in the Rye",]
+hobbies = [ "Lesing", "Heikling", "Skulpturering",]
+languages = [ "Norsk",]
+favorite_books = [ "The Giver", "The Hunger Games series", "The BFG", "Alice's Adventures in Wonderland",]
+favorite_movies = [ "Despicable Me series", "Harry Potter series", "The Lion King",]
+favorite_influencers = [ "Charli D'Amelio", "Unspeakable", "Dwayne 'The Rock' Johnson", "Lele Pons", "Dream",]
+
+[personality]
+openness = 51
+conscientiousness = 46
+extraversion = 24
+agreeableness = 72
+neuroticism = 9

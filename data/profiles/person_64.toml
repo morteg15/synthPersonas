@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Vilde Eriksen"
+gender = "female"
 
 [age]
-years = 20
+years = 9
 
 [location]
-city = "Phoenix"
-state = "IL"
-country = "Australia"
+fylke = "Rogaland"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Cycling", "Cooking", "Swimming",]
-languages = [ "English", "French",]
-favorite_books = [ "Pride and Prejudice", "To Kill a Mockingbird", "Moby Dick",]
+hobbies = [ "Meditasjon",]
+languages = [ "Norsk",]
+favorite_books = [ "Holes", "Diary of a Wimpy Kid series", "Matilda", "Alice's Adventures in Wonderland", "The Giver",]
+favorite_movies = [ "Frozen series", "Big Hero 6", "Harry Potter series", "Tangled",]
+favorite_influencers = [ "Troom Troom", "Emma Chamberlain",]
+
+[personality]
+openness = 12
+conscientiousness = 17
+extraversion = 78
+agreeableness = 4
+neuroticism = 14

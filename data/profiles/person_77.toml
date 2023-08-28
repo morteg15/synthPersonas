@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Sander Lund"
+gender = "male"
 
 [age]
-years = 48
+years = 16
 
 [location]
-city = "New York"
-state = "TX"
-country = "USA"
+fylke = "Troms"
+living_condition = "Fjellområder"
 
 [interests]
-hobbies = [ "Gaming", "Reading", "Cooking",]
-languages = [ "Spanish", "English",]
-favorite_books = [ "Moby Dick", "Pride and Prejudice", "1984",]
+hobbies = []
+languages = [ "Norsk",]
+favorite_books = [ "Anne of Green Gables", "The Tale of Peter Rabbit", "Where the Wild Things Are", "Matilda",]
+favorite_movies = []
+favorite_influencers = [ "Selena Gomez", "Jake Paul", "Brent Rivera",]
+
+[personality]
+openness = 28
+conscientiousness = 100
+extraversion = 70
+agreeableness = 55
+neuroticism = 5

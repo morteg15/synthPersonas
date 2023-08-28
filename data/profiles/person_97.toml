@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Leah Jacobsen"
+gender = "female"
 
 [age]
-years = 32
+years = 7
 
 [location]
-city = "Houston"
-state = "TX"
-country = "USA"
+fylke = "Telemark"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Gaming", "Reading", "Cycling",]
-languages = [ "English", "German",]
-favorite_books = [ "Pride and Prejudice", "The Catcher in the Rye", "Moby Dick",]
+hobbies = [ "Dataspill", "Myntsamling", "Podcasting", "Svømming", "Fotografering",]
+languages = [ "Norsk",]
+favorite_books = [ "Wonder", "The Gruffalo", "The Giver",]
+favorite_movies = [ "How to Train Your Dragon series",]
+favorite_influencers = [ "Dixie D'Amelio", "Billie Eilish", "Zach King",]
+
+[personality]
+openness = 67
+conscientiousness = 68
+extraversion = 13
+agreeableness = 60
+neuroticism = 11

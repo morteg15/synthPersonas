@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "David Henriksen"
+gender = "male"
 
 [age]
-years = 43
+years = 15
 
 [location]
-city = "Chicago"
-state = "NY"
-country = "Germany"
+fylke = "Oppland"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Reading", "Gaming", "Cycling",]
-languages = [ "English", "German",]
-favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "The Catcher in the Rye",]
+hobbies = [ "Skulpturering", "Synging", "Surfing", "Astronomi",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = []
+favorite_influencers = [ "Chris Hemsworth",]
+
+[personality]
+openness = 33
+conscientiousness = 82
+extraversion = 66
+agreeableness = 48
+neuroticism = 1

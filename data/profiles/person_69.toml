@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Amalie Hagen"
+gender = "female"
 
 [age]
-years = 54
+years = 10
 
 [location]
-city = "Chicago"
-state = "AZ"
-country = "UK"
+fylke = "Møre og Romsdal"
+living_condition = "Flatlands"
 
 [interests]
-hobbies = [ "Swimming", "Cycling", "Cooking",]
-languages = [ "English", "Mandarin",]
-favorite_books = [ "1984", "Moby Dick", "To Kill a Mockingbird",]
+hobbies = [ "Maling",]
+languages = [ "Norsk",]
+favorite_books = [ "Wonder", "Charlotte's Web", "The Hunger Games series",]
+favorite_movies = []
+favorite_influencers = [ "David Dobrik", "Spencer X", "James Charles", "Zoe Laverne", "Unspeakable",]
+
+[personality]
+openness = 78
+conscientiousness = 49
+extraversion = 17
+agreeableness = 65
+neuroticism = 2

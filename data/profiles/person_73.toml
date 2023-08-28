@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Oda Karlsen"
+gender = "female"
 
 [age]
-years = 47
+years = 13
 
 [location]
-city = "New York"
-state = "AZ"
-country = "Germany"
+fylke = "Møre og Romsdal"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Swimming", "Cooking", "Reading",]
-languages = [ "German", "French",]
-favorite_books = [ "The Catcher in the Rye", "Moby Dick", "Pride and Prejudice",]
+hobbies = [ "Strikking", "Sykling", "Dykking", "Astronomi",]
+languages = [ "Norsk",]
+favorite_books = [ "Wonder", "The Tale of Peter Rabbit",]
+favorite_movies = []
+favorite_influencers = [ "MrBeast", "David Dobrik", "Spencer X",]
+
+[personality]
+openness = 97
+conscientiousness = 14
+extraversion = 50
+agreeableness = 17
+neuroticism = 18

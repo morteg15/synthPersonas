@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Maja Pettersen"
+gender = "female"
 
 [age]
-years = 29
+years = 15
 
 [location]
-city = "Los Angeles"
-state = "AZ"
-country = "Australia"
+fylke = "Troms"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Gaming", "Cooking", "Swimming",]
-languages = [ "French", "Mandarin",]
-favorite_books = [ "Moby Dick", "1984", "To Kill a Mockingbird",]
+hobbies = [ "Baking", "Reising", "Kortspill",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "The Hunger Games series", "Kung Fu Panda series", "Tangled", "Wreck-It Ralph series",]
+favorite_influencers = [ "Addison Rae", "Will Smith",]
+
+[personality]
+openness = 59
+conscientiousness = 75
+extraversion = 54
+agreeableness = 73
+neuroticism = 21

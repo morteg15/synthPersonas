@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Selma Johansen"
+gender = "female"
 
 [age]
-years = 47
+years = 16
 
 [location]
-city = "Houston"
-state = "NY"
-country = "Germany"
+fylke = "Sogn og Fjordane"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Cycling", "Gaming", "Cooking",]
-languages = [ "French", "Mandarin",]
-favorite_books = [ "The Catcher in the Rye", "1984", "Moby Dick",]
+hobbies = [ "Fugletitting",]
+languages = [ "Norsk",]
+favorite_books = [ "The Giver", "The Chronicles of Narnia series", "The Wind in the Willows", "Harry Potter series",]
+favorite_movies = [ "How to Train Your Dragon series", "Despicable Me series",]
+favorite_influencers = [ "Charli D'Amelio", "Zoe Laverne",]
+
+[personality]
+openness = 30
+conscientiousness = 59
+extraversion = 2
+agreeableness = 86
+neuroticism = 15

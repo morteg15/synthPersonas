@@ -55,7 +55,7 @@ def ask_question():
     if not current_session_name:
         sessions = [s for s in os.listdir(SESSION_PATH) if os.path.isdir(os.path.join(SESSION_PATH, s))]
         session_numbers = [int(s.split('_')[-1]) for s in sessions if s.startswith('session_')]
-        highest_number = max(session_numbers, default=1)
+        highest_number = max(session_numbers, default=0) + 1
         current_session_name = f"session_{highest_number}"
         session(question)
     else:
@@ -80,14 +80,6 @@ def index(session_name):
     return render_template('index.html', user_data=user_response, question=question, general_opinion=general_opinion, session_name=session_name, profiles_dict=profiles_dict)
 
 
-# @app.route('/index/<session_name>/profile/<int:profile_id>')
-# def display_profile(session_name, profile_id):
-#     # Use session_name to locate the correct directory if needed
-#     profile_path = os.path.join(SESSION_PATH, session_name, 'profiles')
-#     profile_file = os.path.join(profile_path, f"person_{profile_id}.toml")
-#     picture_file = f"profilepicture_{profile_id}.jpg"
-#     person = toml.load(profile_file)
-#     return render_template('profile.html', person=person, picture_file=picture_file, profile_id=profile_id)
 
 @app.route('/index/<session_name>/profile/<int:profile_id>')
 def display_profile(session_name, profile_id):
@@ -95,7 +87,9 @@ def display_profile(session_name, profile_id):
     profile_path = os.path.join(SESSION_PATH, session_name, 'profiles')
     profile_file = os.path.join(profile_path, f"person_{profile_id}.toml")
     picture_file = f"profilepicture_{profile_id}.jpg"
-    person = toml.load(profile_file)
+    with open(profile_file, 'r', encoding="latin-1")as f:
+        text = f.read()
+        person = toml.loads(text)
     return render_template('profile.html', person=person, picture_file=picture_file, profile_id=profile_id,  session_name=session_name)
 
 

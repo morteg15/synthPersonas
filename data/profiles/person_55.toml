@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Victoria Strand"
+gender = "female"
 
 [age]
-years = 52
+years = 14
 
 [location]
-city = "Chicago"
-state = "TX"
-country = "USA"
+fylke = "Hordaland"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Swimming", "Reading", "Cooking",]
-languages = [ "English", "Spanish",]
-favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "Moby Dick",]
+hobbies = [ "Skating", "Strikking",]
+languages = [ "Norsk",]
+favorite_books = [ "The Hobbit", "Where the Wild Things Are", "Anne of Green Gables", "Harry Potter series", "The Secret Garden",]
+favorite_movies = []
+favorite_influencers = [ "Unspeakable", "Kylie Jenner",]
+
+[personality]
+openness = 59
+conscientiousness = 19
+extraversion = 16
+agreeableness = 0
+neuroticism = 67

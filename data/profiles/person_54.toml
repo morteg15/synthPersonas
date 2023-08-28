@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Nora Jørgensen"
+gender = "female"
 
 [age]
-years = 48
+years = 18
 
 [location]
-city = "Chicago"
-state = "IL"
-country = "Canada"
+fylke = "Akershus"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Cycling", "Cooking", "Reading",]
-languages = [ "Spanish", "German",]
-favorite_books = [ "1984", "Pride and Prejudice", "The Catcher in the Rye",]
+hobbies = [ "Sykling", "Dykking", "Frimerkesamling", "Astronomi",]
+languages = [ "Norsk",]
+favorite_books = [ "Percy Jackson & the Olympians series",]
+favorite_movies = [ "Big Hero 6", "Shrek series", "Percy Jackson series", "Tangled", "Finding Nemo series",]
+favorite_influencers = []
+
+[personality]
+openness = 4
+conscientiousness = 19
+extraversion = 43
+agreeableness = 32
+neuroticism = 16

@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "David Johansen"
+gender = "male"
 
 [age]
-years = 58
+years = 13
 
 [location]
-city = "Los Angeles"
-state = "AZ"
-country = "Canada"
+fylke = "Trøndelag"
+living_condition = "Fjellområder"
 
 [interests]
-hobbies = [ "Reading", "Cooking", "Swimming",]
-languages = [ "Mandarin", "Spanish",]
-favorite_books = [ "Pride and Prejudice", "To Kill a Mockingbird", "1984",]
+hobbies = [ "Fotball",]
+languages = [ "Norsk",]
+favorite_books = [ "The Tale of Peter Rabbit", "Where the Wild Things Are", "Bridge to Terabithia",]
+favorite_movies = [ "Spider-Man: Into the Spider-Verse", "Big Hero 6", "Finding Nemo series", "How to Train Your Dragon series",]
+favorite_influencers = []
+
+[personality]
+openness = 46
+conscientiousness = 93
+extraversion = 22
+agreeableness = 90
+neuroticism = 3

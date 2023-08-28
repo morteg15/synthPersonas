@@ -1,0 +1,14 @@
+name = "Charlie Green"
+
+[age]
+years = 40
+
+[location]
+city = "Houston"
+state = "AZ"
+country = "USA"
+
+[interests]
+hobbies = [ "Reading", "Gaming", "Swimming",]
+languages = [ "German", "French",]
+favorite_books = [ "Moby Dick", "To Kill a Mockingbird", "1984",]

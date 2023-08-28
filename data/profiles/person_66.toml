@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Sara Kristiansen"
+gender = "female"
 
 [age]
-years = 59
+years = 18
 
 [location]
-city = "Los Angeles"
-state = "AZ"
-country = "Australia"
+fylke = "Vestfold"
+living_condition = "Øy"
 
 [interests]
-hobbies = [ "Swimming", "Cycling", "Reading",]
-languages = [ "English", "Spanish",]
-favorite_books = [ "Pride and Prejudice", "1984", "Moby Dick",]
+hobbies = [ "Fisking", "Droneflyging", "Dykking", "Skulpturering", "Sykling",]
+languages = [ "Norsk",]
+favorite_books = [ "To Kill a Mockingbird", "The Secret Garden", "The Gruffalo",]
+favorite_movies = [ "Shrek series", "Moana", "Harry Potter series", "Monsters, Inc. series", "Toy Story series",]
+favorite_influencers = [ "Emma Chamberlain",]
+
+[personality]
+openness = 39
+conscientiousness = 12
+extraversion = 20
+agreeableness = 1
+neuroticism = 7

@@ -1,0 +1,14 @@
+name = "Charlie Green"
+
+[age]
+years = 33
+
+[location]
+city = "Phoenix"
+state = "NY"
+country = "Germany"
+
+[interests]
+hobbies = [ "Gaming", "Reading", "Swimming",]
+languages = [ "Mandarin", "Spanish",]
+favorite_books = [ "1984", "To Kill a Mockingbird", "The Catcher in the Rye",]

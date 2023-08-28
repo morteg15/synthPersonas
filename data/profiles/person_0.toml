@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Magnus Paulsen"
+gender = "male"
 
 [age]
-years = 43
+years = 14
 
 [location]
-city = "Houston"
-state = "IL"
-country = "Australia"
+fylke = "Telemark"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Reading", "Gaming", "Swimming",]
-languages = [ "English", "Spanish",]
-favorite_books = [ "1984", "The Catcher in the Rye", "Moby Dick",]
+hobbies = [ "Basketball", "Puslespill", "Fjellklatring", "Skulpturering", "Podcasting",]
+languages = [ "Norsk",]
+favorite_books = [ "Charlotte's Web", "Wonder", "Harry Potter series", "The Chronicles of Narnia series", "The Wind in the Willows",]
+favorite_movies = [ "Harry Potter series",]
+favorite_influencers = [ "Charli D'Amelio", "Emma Chamberlain",]
+
+[personality]
+openness = 91
+conscientiousness = 28
+extraversion = 47
+agreeableness = 52
+neuroticism = 83

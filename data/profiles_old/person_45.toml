@@ -1,0 +1,14 @@
+name = "Charlie Green"
+
+[age]
+years = 20
+
+[location]
+city = "New York"
+state = "NY"
+country = "USA"
+
+[interests]
+hobbies = [ "Swimming", "Reading", "Cooking",]
+languages = [ "French", "German",]
+favorite_books = [ "Moby Dick", "Pride and Prejudice", "To Kill a Mockingbird",]

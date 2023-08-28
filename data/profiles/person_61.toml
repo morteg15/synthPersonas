@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Maja Halvorsen"
+gender = "female"
 
 [age]
-years = 52
+years = 9
 
 [location]
-city = "Houston"
-state = "CA"
-country = "USA"
+fylke = "Akershus"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Swimming", "Cycling", "Reading",]
-languages = [ "Mandarin", "English",]
-favorite_books = [ "To Kill a Mockingbird", "The Catcher in the Rye", "Pride and Prejudice",]
+hobbies = [ "Basketball",]
+languages = [ "Norsk",]
+favorite_books = [ "The Gruffalo", "The Secret Garden", "The BFG", "Where the Wild Things Are", "Diary of a Wimpy Kid series",]
+favorite_movies = [ "Despicable Me series", "Moana", "The Hunger Games series", "The Incredibles series", "The Lion King",]
+favorite_influencers = [ "Chris Hemsworth", "Loren Gray", "Bella Poarch", "TommyInnit", "Ariana Grande",]
+
+[personality]
+openness = 9
+conscientiousness = 41
+extraversion = 3
+agreeableness = 59
+neuroticism = 34

@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Sara Paulsen"
+gender = "female"
 
 [age]
-years = 44
+years = 8
 
 [location]
-city = "Chicago"
-state = "TX"
-country = "Germany"
+fylke = "Aust-Agder"
+living_condition = "Fjellområder"
 
 [interests]
-hobbies = [ "Reading", "Cooking", "Gaming",]
-languages = [ "German", "Mandarin",]
-favorite_books = [ "1984", "Moby Dick", "The Catcher in the Rye",]
+hobbies = []
+languages = [ "Norsk",]
+favorite_books = [ "The Secret Garden",]
+favorite_movies = [ "Percy Jackson series", "Shrek series", "Wreck-It Ralph series", "The Lion King", "Kung Fu Panda series",]
+favorite_influencers = [ "MrBeast", "Will Smith", "David Dobrik", "Addison Rae", "King Bach",]
+
+[personality]
+openness = 95
+conscientiousness = 59
+extraversion = 17
+agreeableness = 67
+neuroticism = 48

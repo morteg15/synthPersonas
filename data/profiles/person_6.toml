@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Oda Eriksen"
+gender = "female"
 
 [age]
-years = 47
+years = 15
 
 [location]
-city = "Chicago"
-state = "IL"
-country = "USA"
+fylke = "Akershus"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Reading", "Gaming", "Cycling",]
-languages = [ "Spanish", "German",]
-favorite_books = [ "Moby Dick", "Pride and Prejudice", "To Kill a Mockingbird",]
+hobbies = [ "Golf",]
+languages = [ "Norsk",]
+favorite_books = [ "Holes", "The Hunger Games series", "Harry Potter series", "The Wind in the Willows", "Where the Wild Things Are",]
+favorite_movies = [ "Wreck-It Ralph series",]
+favorite_influencers = [ "Loren Gray", "Ryan's World",]
+
+[personality]
+openness = 100
+conscientiousness = 47
+extraversion = 62
+agreeableness = 13
+neuroticism = 45

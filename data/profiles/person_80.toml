@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Samuel Johannessen"
+gender = "male"
 
 [age]
-years = 27
+years = 9
 
 [location]
-city = "New York"
-state = "NY"
-country = "UK"
+fylke = "Hordaland"
+living_condition = "Fjellområder"
 
 [interests]
-hobbies = [ "Swimming", "Reading", "Cycling",]
-languages = [ "German", "English",]
-favorite_books = [ "Moby Dick", "To Kill a Mockingbird", "The Catcher in the Rye",]
+hobbies = [ "Myntsamling", "Golf", "Dykking",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Finding Nemo series", "Despicable Me series", "Zootopia", "Spider-Man: Into the Spider-Verse", "Tangled",]
+favorite_influencers = [ "Ryan's World",]
+
+[personality]
+openness = 41
+conscientiousness = 66
+extraversion = 72
+agreeableness = 26
+neuroticism = 78

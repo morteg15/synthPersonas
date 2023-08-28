@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Vilde Lund"
+gender = "female"
 
 [age]
-years = 50
+years = 8
 
 [location]
-city = "Los Angeles"
-state = "CA"
-country = "USA"
+fylke = "Østfold"
+living_condition = "Kystområder"
 
 [interests]
-hobbies = [ "Cooking", "Swimming", "Reading",]
-languages = [ "German", "English",]
-favorite_books = [ "Pride and Prejudice", "To Kill a Mockingbird", "The Catcher in the Rye",]
+hobbies = [ "Skulpturering",]
+languages = [ "Norsk",]
+favorite_books = [ "The Tale of Peter Rabbit", "Charlotte's Web",]
+favorite_movies = [ "Percy Jackson series", "Finding Nemo series",]
+favorite_influencers = []
+
+[personality]
+openness = 47
+conscientiousness = 47
+extraversion = 3
+agreeableness = 54
+neuroticism = 29

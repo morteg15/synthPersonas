@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Max Jensen"
+gender = "male"
 
 [age]
-years = 38
+years = 7
 
 [location]
-city = "Los Angeles"
-state = "TX"
-country = "Australia"
+fylke = "Telemark"
+living_condition = "Småby"
 
 [interests]
-hobbies = [ "Swimming", "Cooking", "Cycling",]
-languages = [ "Spanish", "Mandarin",]
-favorite_books = [ "The Catcher in the Rye", "Moby Dick", "1984",]
+hobbies = [ "Skateboarding", "Astronomi",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Zootopia", "Finding Nemo series", "Moana", "Monsters, Inc. series", "Big Hero 6",]
+favorite_influencers = [ "Emma Chamberlain", "Billie Eilish", "Dwayne 'The Rock' Johnson", "JoJo Siwa",]
+
+[personality]
+openness = 44
+conscientiousness = 15
+extraversion = 6
+agreeableness = 96
+neuroticism = 89

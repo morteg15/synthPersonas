@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Isak Dahl"
+gender = "male"
 
 [age]
-years = 50
+years = 11
 
 [location]
-city = "New York"
-state = "TX"
-country = "USA"
+fylke = "Telemark"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Cooking", "Reading", "Swimming",]
-languages = [ "English", "French",]
-favorite_books = [ "Moby Dick", "The Catcher in the Rye", "Pride and Prejudice",]
+hobbies = [ "Podcasting", "Tennis", "Jogging", "Poesi", "Spille et musikkinstrument",]
+languages = [ "Norsk",]
+favorite_books = [ "Charlotte's Web", "Diary of a Wimpy Kid series", "The Hobbit",]
+favorite_movies = [ "Shrek series", "Wreck-It Ralph series", "Spider-Man: Into the Spider-Verse", "Finding Nemo series", "The Incredibles series",]
+favorite_influencers = [ "Brent Rivera", "Kylie Jenner", "FGTeeV",]
+
+[personality]
+openness = 40
+conscientiousness = 27
+extraversion = 40
+agreeableness = 14
+neuroticism = 21

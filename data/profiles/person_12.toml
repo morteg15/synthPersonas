@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Maja Moen"
+gender = "female"
 
 [age]
-years = 18
+years = 12
 
 [location]
-city = "Los Angeles"
-state = "TX"
-country = "Australia"
+fylke = "Finnmark"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Swimming", "Cooking", "Cycling",]
-languages = [ "English", "French",]
-favorite_books = [ "1984", "Moby Dick", "Pride and Prejudice",]
+hobbies = [ "Bloggskriving", "Tennis", "Dansing",]
+languages = [ "Norsk",]
+favorite_books = [ "To Kill a Mockingbird", "The Tale of Peter Rabbit", "Where the Wild Things Are", "Charlotte's Web", "Diary of a Wimpy Kid series",]
+favorite_movies = []
+favorite_influencers = [ "TommyInnit", "Zach King",]
+
+[personality]
+openness = 59
+conscientiousness = 57
+extraversion = 60
+agreeableness = 23
+neuroticism = 71

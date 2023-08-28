@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Jakob Karlsen"
+gender = "male"
 
 [age]
-years = 41
+years = 9
 
 [location]
-city = "Los Angeles"
-state = "IL"
-country = "Australia"
+fylke = "Hedmark"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Cycling", "Reading", "Gaming",]
-languages = [ "German", "French",]
-favorite_books = [ "Pride and Prejudice", "The Catcher in the Rye", "1984",]
+hobbies = [ "Skulpturering", "Tegning",]
+languages = [ "Norsk",]
+favorite_books = [ "Percy Jackson & the Olympians series", "Lord of the Flies",]
+favorite_movies = [ "The Incredibles series", "The Hunger Games series",]
+favorite_influencers = [ "King Bach",]
+
+[personality]
+openness = 55
+conscientiousness = 90
+extraversion = 92
+agreeableness = 20
+neuroticism = 80

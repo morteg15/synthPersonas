@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Sander Iversen"
+gender = "male"
 
 [age]
-years = 43
+years = 17
 
 [location]
-city = "Houston"
-state = "CA"
-country = "UK"
+fylke = "Aust-Agder"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Cooking", "Gaming", "Cycling",]
-languages = [ "Mandarin", "German",]
-favorite_books = [ "The Catcher in the Rye", "Pride and Prejudice", "Moby Dick",]
+hobbies = [ "Fjellklatring", "Svømming", "Matlaging",]
+languages = [ "Norsk",]
+favorite_books = [ "Charlotte's Web", "The Chronicles of Narnia series", "The Hobbit",]
+favorite_movies = [ "Toy Story series",]
+favorite_influencers = [ "Spencer X", "TommyInnit", "FGTeeV",]
+
+[personality]
+openness = 18
+conscientiousness = 95
+extraversion = 90
+agreeableness = 76
+neuroticism = 38

@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Leo Paulsen"
+gender = "male"
 
 [age]
-years = 37
+years = 15
 
 [location]
-city = "New York"
-state = "IL"
-country = "USA"
+fylke = "Buskerud"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Cycling", "Cooking", "Gaming",]
-languages = [ "French", "German",]
-favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "Moby Dick",]
+hobbies = [ "Myntsamling", "Spille et musikkinstrument", "Skjønnlitterær skriving", "Astronomi",]
+languages = [ "Norsk",]
+favorite_books = [ "The Wind in the Willows", "The Gruffalo", "The BFG",]
+favorite_movies = [ "The Hunger Games series", "Kung Fu Panda series",]
+favorite_influencers = [ "Billie Eilish", "King Bach", "Dream", "JoJo Siwa",]
+
+[personality]
+openness = 10
+conscientiousness = 62
+extraversion = 68
+agreeableness = 26
+neuroticism = 84

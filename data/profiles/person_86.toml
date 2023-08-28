@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Samuel Pedersen"
+gender = "male"
 
 [age]
-years = 50
+years = 17
 
 [location]
-city = "New York"
-state = "IL"
-country = "USA"
+fylke = "Buskerud"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Cooking", "Gaming", "Reading",]
-languages = [ "English", "Spanish",]
-favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "The Catcher in the Rye",]
+hobbies = []
+languages = [ "Norsk",]
+favorite_books = [ "The Secret Garden", "To Kill a Mockingbird", "The Hobbit", "Anne of Green Gables",]
+favorite_movies = [ "Spider-Man: Into the Spider-Verse", "Wreck-It Ralph series", "Tangled", "Zootopia",]
+favorite_influencers = []
+
+[personality]
+openness = 65
+conscientiousness = 28
+extraversion = 60
+agreeableness = 92
+neuroticism = 81

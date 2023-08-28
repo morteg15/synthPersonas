@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Amalie Hansen"
+gender = "female"
 
 [age]
-years = 36
+years = 7
 
 [location]
-city = "Los Angeles"
-state = "CA"
-country = "Australia"
+fylke = "Troms"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Swimming", "Cooking", "Reading",]
-languages = [ "French", "Spanish",]
-favorite_books = [ "Moby Dick", "To Kill a Mockingbird", "The Catcher in the Rye",]
+hobbies = [ "Skjønnlitterær skriving", "Droneflyging", "Poesi", "Matlaging", "Fjellklatring",]
+languages = [ "Norsk",]
+favorite_books = [ "Anne of Green Gables", "Percy Jackson & the Olympians series",]
+favorite_movies = [ "Big Hero 6", "Despicable Me series", "Zootopia", "Moana", "Monsters, Inc. series",]
+favorite_influencers = [ "Flamingo",]
+
+[personality]
+openness = 79
+conscientiousness = 11
+extraversion = 56
+agreeableness = 91
+neuroticism = 98

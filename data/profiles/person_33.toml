@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Oscar Pettersen"
+gender = "male"
 
 [age]
-years = 59
+years = 13
 
 [location]
-city = "Phoenix"
-state = "CA"
-country = "Australia"
+fylke = "Rogaland"
+living_condition = "Øy"
 
 [interests]
-hobbies = [ "Swimming", "Gaming", "Cycling",]
-languages = [ "German", "Mandarin",]
-favorite_books = [ "1984", "Moby Dick", "The Catcher in the Rye",]
+hobbies = [ "Kortspill",]
+languages = [ "Norsk",]
+favorite_books = [ "Wonder", "To Kill a Mockingbird",]
+favorite_movies = [ "Big Hero 6", "Toy Story series", "Finding Nemo series",]
+favorite_influencers = [ "Selena Gomez", "David Dobrik", "Chris Hemsworth", "Brent Rivera",]
+
+[personality]
+openness = 72
+conscientiousness = 6
+extraversion = 28
+agreeableness = 94
+neuroticism = 84

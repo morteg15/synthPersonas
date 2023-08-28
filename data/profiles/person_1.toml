@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Sofie Paulsen"
+gender = "female"
 
 [age]
-years = 56
+years = 9
 
 [location]
-city = "New York"
-state = "AZ"
-country = "USA"
+fylke = "Oslo"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Gaming", "Cooking", "Swimming",]
-languages = [ "German", "English",]
-favorite_books = [ "Pride and Prejudice", "The Catcher in the Rye", "To Kill a Mockingbird",]
+hobbies = [ "Svømming",]
+languages = [ "Norsk",]
+favorite_books = [ "The Secret Garden", "Charlotte's Web", "Bridge to Terabithia", "Holes",]
+favorite_movies = [ "How to Train Your Dragon series", "Wreck-It Ralph series", "Monsters, Inc. series",]
+favorite_influencers = [ "Emma Chamberlain",]
+
+[personality]
+openness = 8
+conscientiousness = 68
+extraversion = 46
+agreeableness = 39
+neuroticism = 54

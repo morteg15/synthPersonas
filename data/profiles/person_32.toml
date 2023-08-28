@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Oskar Hagen"
+gender = "male"
 
 [age]
-years = 47
+years = 14
 
 [location]
-city = "Chicago"
-state = "AZ"
-country = "UK"
+fylke = "Sogn og Fjordane"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Reading", "Cycling", "Gaming",]
-languages = [ "English", "German",]
-favorite_books = [ "1984", "The Catcher in the Rye", "Pride and Prejudice",]
+hobbies = [ "Kampsport", "Skulpturering", "Kalligrafi", "Wandern",]
+languages = [ "Norsk",]
+favorite_books = [ "Diary of a Wimpy Kid series", "Charlotte's Web", "Holes",]
+favorite_movies = [ "Moana", "Big Hero 6",]
+favorite_influencers = []
+
+[personality]
+openness = 12
+conscientiousness = 24
+extraversion = 71
+agreeableness = 34
+neuroticism = 29

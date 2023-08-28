@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Mathias Iversen"
+gender = "male"
 
 [age]
-years = 27
+years = 14
 
 [location]
-city = "Houston"
-state = "AZ"
-country = "Germany"
+fylke = "Vestfold"
+living_condition = "Småby"
 
 [interests]
-hobbies = [ "Swimming", "Gaming", "Cycling",]
-languages = [ "German", "Spanish",]
-favorite_books = [ "To Kill a Mockingbird", "1984", "The Catcher in the Rye",]
+hobbies = [ "Meditasjon", "Maling",]
+languages = [ "Norsk",]
+favorite_books = [ "Holes", "The Wind in the Willows",]
+favorite_movies = [ "The Hunger Games series",]
+favorite_influencers = [ "Billie Eilish",]
+
+[personality]
+openness = 61
+conscientiousness = 35
+extraversion = 70
+agreeableness = 7
+neuroticism = 87

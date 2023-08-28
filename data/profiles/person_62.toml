@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Amalie Johnsen"
+gender = "female"
 
 [age]
-years = 52
+years = 10
 
 [location]
-city = "Los Angeles"
-state = "CA"
-country = "USA"
+fylke = "Trøndelag"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Cooking", "Cycling", "Gaming",]
-languages = [ "French", "German",]
-favorite_books = [ "The Catcher in the Rye", "To Kill a Mockingbird", "1984",]
+hobbies = [ "Reising", "Dataspill", "Spille et musikkinstrument", "Baking", "Strikking",]
+languages = [ "Norsk",]
+favorite_books = [ "The Hobbit", "Charlotte's Web", "Diary of a Wimpy Kid series", "The Secret Garden", "Alice's Adventures in Wonderland",]
+favorite_movies = [ "The Lion King", "Frozen series", "Monsters, Inc. series",]
+favorite_influencers = [ "Lele Pons", "Zach King", "Zoe Laverne",]
+
+[personality]
+openness = 61
+conscientiousness = 94
+extraversion = 56
+agreeableness = 88
+neuroticism = 4

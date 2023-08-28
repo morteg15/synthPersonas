@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "William Iversen"
+gender = "male"
 
 [age]
-years = 25
+years = 15
 
 [location]
-city = "New York"
-state = "AZ"
-country = "Australia"
+fylke = "Sogn og Fjordane"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Cooking", "Gaming", "Reading",]
-languages = [ "German", "Spanish",]
-favorite_books = [ "The Catcher in the Rye", "Pride and Prejudice", "Moby Dick",]
+hobbies = [ "Skateboarding", "Puslespill", "Bordspill", "Skulpturering", "Volleyball",]
+languages = [ "Norsk",]
+favorite_books = [ "Alice's Adventures in Wonderland", "The Hobbit", "The Tale of Peter Rabbit",]
+favorite_movies = [ "Wreck-It Ralph series", "Finding Nemo series", "Tangled",]
+favorite_influencers = [ "Addison Rae", "David Dobrik", "Ryan's World", "JoJo Siwa", "Billie Eilish",]
+
+[personality]
+openness = 100
+conscientiousness = 94
+extraversion = 92
+agreeableness = 13
+neuroticism = 4

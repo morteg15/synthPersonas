@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Selma Berg"
+gender = "female"
 
 [age]
-years = 59
+years = 10
 
 [location]
-city = "Chicago"
-state = "IL"
-country = "USA"
+fylke = "Hedmark"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Cooking", "Gaming", "Reading",]
-languages = [ "Mandarin", "French",]
-favorite_books = [ "The Catcher in the Rye", "Moby Dick", "1984",]
+hobbies = [ "Tegning", "Fotografering", "Poesi", "Synging", "Treverk",]
+languages = [ "Norsk",]
+favorite_books = [ "Charlotte's Web", "The Secret Garden", "The Gruffalo", "Bridge to Terabithia", "Anne of Green Gables",]
+favorite_movies = [ "Percy Jackson series", "Moana",]
+favorite_influencers = [ "KSI", "James Charles", "MrBeast", "Selena Gomez", "FGTeeV",]
+
+[personality]
+openness = 52
+conscientiousness = 98
+extraversion = 17
+agreeableness = 70
+neuroticism = 19

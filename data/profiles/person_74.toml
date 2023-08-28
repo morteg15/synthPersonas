@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Nora Andersen"
+gender = "female"
 
 [age]
-years = 47
+years = 17
 
 [location]
-city = "Los Angeles"
-state = "CA"
-country = "UK"
+fylke = "Nordland"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Gaming", "Reading", "Cooking",]
-languages = [ "Spanish", "French",]
-favorite_books = [ "Pride and Prejudice", "To Kill a Mockingbird", "1984",]
+hobbies = [ "Dansing", "Heikling", "Dykking", "Kampsport",]
+languages = [ "Norsk",]
+favorite_books = [ "Anne of Green Gables", "The BFG", "Percy Jackson & the Olympians series",]
+favorite_movies = [ "Finding Nemo series", "Toy Story series", "Tangled", "Percy Jackson series",]
+favorite_influencers = [ "Troom Troom", "JoJo Siwa", "Bella Poarch",]
+
+[personality]
+openness = 33
+conscientiousness = 19
+extraversion = 1
+agreeableness = 0
+neuroticism = 4

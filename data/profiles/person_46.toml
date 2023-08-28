@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Mathea Pettersen"
+gender = "female"
 
 [age]
-years = 33
+years = 8
 
 [location]
-city = "Phoenix"
-state = "CA"
-country = "Australia"
+fylke = "Nordland"
+living_condition = "Flatlands"
 
 [interests]
-hobbies = [ "Swimming", "Cooking", "Reading",]
-languages = [ "French", "German",]
-favorite_books = [ "Moby Dick", "To Kill a Mockingbird", "1984",]
+hobbies = [ "Språklæring",]
+languages = [ "Norsk",]
+favorite_books = [ "The Giver", "The Hobbit", "The BFG", "The Chronicles of Narnia series",]
+favorite_movies = [ "Toy Story series", "Zootopia",]
+favorite_influencers = [ "Bella Poarch", "Zach King",]
+
+[personality]
+openness = 57
+conscientiousness = 70
+extraversion = 54
+agreeableness = 43
+neuroticism = 3

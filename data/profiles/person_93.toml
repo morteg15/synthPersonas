@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Isak Andreassen"
+gender = "male"
 
 [age]
-years = 55
+years = 16
 
 [location]
-city = "Los Angeles"
-state = "TX"
-country = "Canada"
+fylke = "Trøndelag"
+living_condition = "Flatlands"
 
 [interests]
-hobbies = [ "Gaming", "Swimming", "Reading",]
-languages = [ "German", "English",]
-favorite_books = [ "Pride and Prejudice", "1984", "To Kill a Mockingbird",]
+hobbies = [ "Skulpturering", "Poesi", "Volleyball", "Myntsamling",]
+languages = [ "Norsk",]
+favorite_books = [ "Anne of Green Gables", "Alice's Adventures in Wonderland", "Wonder",]
+favorite_movies = [ "Monsters, Inc. series", "The Lion King", "Harry Potter series", "Kung Fu Panda series", "Toy Story series",]
+favorite_influencers = [ "Unspeakable",]
+
+[personality]
+openness = 37
+conscientiousness = 75
+extraversion = 22
+agreeableness = 91
+neuroticism = 55

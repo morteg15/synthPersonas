@@ -1,0 +1,14 @@
+name = "Alice Johnson"
+
+[age]
+years = 56
+
+[location]
+city = "Phoenix"
+state = "AZ"
+country = "Australia"
+
+[interests]
+hobbies = [ "Cycling", "Cooking", "Reading",]
+languages = [ "English", "French",]
+favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "The Catcher in the Rye",]

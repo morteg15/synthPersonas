@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Filip Dahl"
+gender = "male"
 
 [age]
-years = 26
+years = 10
 
 [location]
-city = "Houston"
-state = "NY"
-country = "Germany"
+fylke = "Oppland"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Reading", "Swimming", "Cycling",]
-languages = [ "Spanish", "Mandarin",]
-favorite_books = [ "Moby Dick", "1984", "Pride and Prejudice",]
+hobbies = [ "Fisking", "Podcasting", "Frimerkesamling",]
+languages = [ "Norsk",]
+favorite_books = [ "Wonder",]
+favorite_movies = [ "Wreck-It Ralph series", "How to Train Your Dragon series", "Tangled", "Spider-Man: Into the Spider-Verse",]
+favorite_influencers = [ "Logan Paul", "Billie Eilish", "Ryan's World",]
+
+[personality]
+openness = 33
+conscientiousness = 93
+extraversion = 65
+agreeableness = 41
+neuroticism = 0

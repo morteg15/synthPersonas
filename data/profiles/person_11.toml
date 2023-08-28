@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "William Jensen"
+gender = "male"
 
 [age]
-years = 19
+years = 11
 
 [location]
-city = "Houston"
-state = "IL"
-country = "Germany"
+fylke = "Vest-Agder"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Cycling", "Reading", "Cooking",]
-languages = [ "German", "French",]
-favorite_books = [ "The Catcher in the Rye", "Moby Dick", "To Kill a Mockingbird",]
+hobbies = [ "Kampsport", "Fotball", "Skuespill", "Wandern",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "How to Train Your Dragon series", "Frozen series", "Harry Potter series",]
+favorite_influencers = [ "5-Minute Crafts", "Ryan's World", "Will Smith", "Dwayne 'The Rock' Johnson",]
+
+[personality]
+openness = 88
+conscientiousness = 77
+extraversion = 84
+agreeableness = 76
+neuroticism = 89

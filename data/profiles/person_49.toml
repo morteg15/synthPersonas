@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Kristian Strand"
+gender = "male"
 
 [age]
-years = 42
+years = 7
 
 [location]
-city = "Los Angeles"
-state = "IL"
-country = "Australia"
+fylke = "Vestfold"
+living_condition = "Flatlands"
 
 [interests]
-hobbies = [ "Swimming", "Gaming", "Reading",]
-languages = [ "Mandarin", "English",]
-favorite_books = [ "1984", "Moby Dick", "To Kill a Mockingbird",]
+hobbies = [ "Tennis",]
+languages = [ "Norsk",]
+favorite_books = [ "Percy Jackson & the Olympians series", "The Hobbit", "Diary of a Wimpy Kid series", "Bridge to Terabithia", "Alice's Adventures in Wonderland",]
+favorite_movies = [ "The Hunger Games series", "Harry Potter series", "Moana", "Frozen series",]
+favorite_influencers = [ "Unspeakable", "Chris Hemsworth", "KSI",]
+
+[personality]
+openness = 65
+conscientiousness = 57
+extraversion = 39
+agreeableness = 50
+neuroticism = 14

@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Isak Olsen"
+gender = "male"
 
 [age]
-years = 42
+years = 7
 
 [location]
-city = "Los Angeles"
-state = "AZ"
-country = "UK"
+fylke = "Rogaland"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Cycling", "Swimming", "Reading",]
-languages = [ "Mandarin", "German",]
-favorite_books = [ "To Kill a Mockingbird", "The Catcher in the Rye", "1984",]
+hobbies = [ "Skulpturering", "Fjellklatring", "Dykking", "Lesing",]
+languages = [ "Norsk",]
+favorite_books = [ "The BFG", "Matilda",]
+favorite_movies = [ "Toy Story series", "Spider-Man: Into the Spider-Verse", "The Lion King", "Zootopia",]
+favorite_influencers = [ "David Dobrik",]
+
+[personality]
+openness = 15
+conscientiousness = 5
+extraversion = 54
+agreeableness = 12
+neuroticism = 99

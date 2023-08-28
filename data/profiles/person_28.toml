@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Karoline Karlsen"
+gender = "female"
 
 [age]
-years = 52
+years = 12
 
 [location]
-city = "Los Angeles"
-state = "TX"
-country = "Germany"
+fylke = "Telemark"
+living_condition = "Øy"
 
 [interests]
-hobbies = [ "Gaming", "Swimming", "Reading",]
-languages = [ "Spanish", "Mandarin",]
-favorite_books = [ "To Kill a Mockingbird", "The Catcher in the Rye", "Pride and Prejudice",]
+hobbies = [ "Golf", "Svømming", "Droneflyging", "Kampsport", "Tennis",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Despicable Me series",]
+favorite_influencers = [ "Dream", "JoJo Siwa", "TommyInnit", "King Bach",]
+
+[personality]
+openness = 92
+conscientiousness = 51
+extraversion = 42
+agreeableness = 25
+neuroticism = 33

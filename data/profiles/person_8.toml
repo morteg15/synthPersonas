@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Magnus Sørensen"
+gender = "male"
 
 [age]
-years = 53
+years = 14
 
 [location]
-city = "Houston"
-state = "CA"
-country = "USA"
+fylke = "Hedmark"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Swimming", "Cycling", "Gaming",]
-languages = [ "Mandarin", "Spanish",]
-favorite_books = [ "1984", "The Catcher in the Rye", "Moby Dick",]
+hobbies = [ "Dataspill", "Gartneri", "Skuespill",]
+languages = [ "Norsk",]
+favorite_books = [ "Alice's Adventures in Wonderland",]
+favorite_movies = [ "The Hunger Games series", "Monsters, Inc. series",]
+favorite_influencers = [ "Logan Paul", "Ariana Grande",]
+
+[personality]
+openness = 95
+conscientiousness = 37
+extraversion = 47
+agreeableness = 23
+neuroticism = 18

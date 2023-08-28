@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "Viktor Andersen"
+gender = "male"
 
 [age]
-years = 35
+years = 17
 
 [location]
-city = "Houston"
-state = "IL"
-country = "USA"
+fylke = "Østfold"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Swimming", "Reading", "Cooking",]
-languages = [ "French", "Spanish",]
-favorite_books = [ "The Catcher in the Rye", "Moby Dick", "Pride and Prejudice",]
+hobbies = [ "Lesing", "Frimerkesamling", "Kortspill",]
+languages = [ "Norsk",]
+favorite_books = [ "Lord of the Flies", "Matilda",]
+favorite_movies = [ "Big Hero 6", "Finding Nemo series", "Spider-Man: Into the Spider-Verse", "The Incredibles series", "Despicable Me series",]
+favorite_influencers = [ "Zach King", "Bella Poarch", "FGTeeV",]
+
+[personality]
+openness = 45
+conscientiousness = 12
+extraversion = 99
+agreeableness = 98
+neuroticism = 66

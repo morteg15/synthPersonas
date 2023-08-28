@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Oliver Pettersen"
+gender = "male"
 
 [age]
-years = 31
+years = 9
 
 [location]
-city = "Houston"
-state = "IL"
-country = "UK"
+fylke = "Oppland"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Cycling", "Swimming", "Reading",]
-languages = [ "German", "Spanish",]
-favorite_books = [ "To Kill a Mockingbird", "Pride and Prejudice", "Moby Dick",]
+hobbies = [ "Strikking", "Kalligrafi", "Golf",]
+languages = [ "Norsk",]
+favorite_books = [ "The Giver",]
+favorite_movies = [ "Kung Fu Panda series",]
+favorite_influencers = [ "Unspeakable", "Charli D'Amelio",]
+
+[personality]
+openness = 81
+conscientiousness = 99
+extraversion = 29
+agreeableness = 62
+neuroticism = 15

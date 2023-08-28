@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Sara Hansen"
+gender = "female"
 
 [age]
-years = 40
+years = 7
 
 [location]
-city = "Los Angeles"
-state = "AZ"
-country = "Australia"
+fylke = "Hordaland"
+living_condition = "Småby"
 
 [interests]
-hobbies = [ "Gaming", "Reading", "Cycling",]
-languages = [ "English", "Spanish",]
-favorite_books = [ "1984", "Moby Dick", "To Kill a Mockingbird",]
+hobbies = [ "Fotografering", "Volleyball", "Tegning",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "The Lion King", "The Hunger Games series", "Monsters, Inc. series",]
+favorite_influencers = [ "5-Minute Crafts", "Emma Chamberlain",]
+
+[personality]
+openness = 88
+conscientiousness = 34
+extraversion = 38
+agreeableness = 55
+neuroticism = 50

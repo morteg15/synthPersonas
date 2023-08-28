@@ -1,0 +1,14 @@
+name = "John Doe"
+
+[age]
+years = 38
+
+[location]
+city = "New York"
+state = "IL"
+country = "UK"
+
+[interests]
+hobbies = [ "Swimming", "Reading", "Cooking",]
+languages = [ "English", "French",]
+favorite_books = [ "1984", "Pride and Prejudice", "The Catcher in the Rye",]

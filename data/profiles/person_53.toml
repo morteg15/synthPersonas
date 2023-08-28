@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Viktor Andersen"
+gender = "male"
 
 [age]
-years = 51
+years = 8
 
 [location]
-city = "Chicago"
-state = "CA"
-country = "UK"
+fylke = "Hordaland"
+living_condition = "Øy"
 
 [interests]
-hobbies = [ "Cooking", "Swimming", "Gaming",]
-languages = [ "Spanish", "Mandarin",]
-favorite_books = [ "1984", "Pride and Prejudice", "Moby Dick",]
+hobbies = [ "Kalligrafi", "Spille et musikkinstrument", "Matlaging", "Tegning", "Skjønnlitterær skriving",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Wreck-It Ralph series",]
+favorite_influencers = [ "Bella Poarch", "Troom Troom", "David Dobrik", "Selena Gomez", "Lele Pons",]
+
+[personality]
+openness = 84
+conscientiousness = 25
+extraversion = 23
+agreeableness = 91
+neuroticism = 29

@@ -1,0 +1,14 @@
+name = "Alice Johnson"
+
+[age]
+years = 47
+
+[location]
+city = "Los Angeles"
+state = "CA"
+country = "UK"
+
+[interests]
+hobbies = [ "Gaming", "Reading", "Cooking",]
+languages = [ "Spanish", "French",]
+favorite_books = [ "Pride and Prejudice", "To Kill a Mockingbird", "1984",]

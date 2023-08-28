@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Oliver Olsen"
+gender = "male"
 
 [age]
-years = 60
+years = 18
 
 [location]
-city = "Los Angeles"
-state = "IL"
-country = "Germany"
+fylke = "Hordaland"
+living_condition = "Småby"
 
 [interests]
-hobbies = [ "Swimming", "Reading", "Gaming",]
-languages = [ "German", "Spanish",]
-favorite_books = [ "Pride and Prejudice", "1984", "The Catcher in the Rye",]
+hobbies = [ "Fjellklatring", "Heikling",]
+languages = [ "Norsk",]
+favorite_books = [ "The Wind in the Willows",]
+favorite_movies = [ "Moana", "Big Hero 6", "Kung Fu Panda series",]
+favorite_influencers = [ "Zoe Laverne", "James Charles", "Ariana Grande",]
+
+[personality]
+openness = 34
+conscientiousness = 7
+extraversion = 87
+agreeableness = 80
+neuroticism = 74

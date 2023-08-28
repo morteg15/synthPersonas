@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Oscar Strand"
+gender = "male"
 
 [age]
-years = 24
+years = 10
 
 [location]
-city = "Chicago"
-state = "TX"
-country = "UK"
+fylke = "Telemark"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Swimming", "Gaming", "Cooking",]
-languages = [ "Mandarin", "English",]
-favorite_books = [ "1984", "The Catcher in the Rye", "Moby Dick",]
+hobbies = [ "Puslespill",]
+languages = [ "Norsk",]
+favorite_books = [ "Where the Wild Things Are", "Holes", "Matilda",]
+favorite_movies = [ "Harry Potter series",]
+favorite_influencers = [ "Selena Gomez", "Unspeakable", "Zach King",]
+
+[personality]
+openness = 6
+conscientiousness = 76
+extraversion = 44
+agreeableness = 9
+neuroticism = 43

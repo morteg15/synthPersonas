@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Oscar Larsen"
+gender = "male"
 
 [age]
-years = 32
+years = 16
 
 [location]
-city = "Phoenix"
-state = "CA"
-country = "Australia"
+fylke = "Vest-Agder"
+living_condition = "Landsbygd"
 
 [interests]
-hobbies = [ "Swimming", "Cooking", "Cycling",]
-languages = [ "Mandarin", "German",]
-favorite_books = [ "1984", "Pride and Prejudice", "To Kill a Mockingbird",]
+hobbies = [ "Volleyball",]
+languages = [ "Norsk",]
+favorite_books = [ "Bridge to Terabithia", "The Hobbit",]
+favorite_movies = [ "Spider-Man: Into the Spider-Verse", "Toy Story series", "The Lion King",]
+favorite_influencers = [ "Ariana Grande", "Charli D'Amelio", "Billie Eilish", "Jake Paul", "James Charles",]
+
+[personality]
+openness = 89
+conscientiousness = 40
+extraversion = 3
+agreeableness = 45
+neuroticism = 71

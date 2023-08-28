@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Tuva Jørgensen"
+gender = "female"
 
 [age]
-years = 39
+years = 11
 
 [location]
-city = "Chicago"
-state = "IL"
-country = "Germany"
+fylke = "Oslo"
+living_condition = "Fjellområder"
 
 [interests]
-hobbies = [ "Reading", "Cooking", "Gaming",]
-languages = [ "English", "French",]
-favorite_books = [ "To Kill a Mockingbird", "1984", "Pride and Prejudice",]
+hobbies = []
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Moana",]
+favorite_influencers = [ "Bella Poarch", "Kylie Jenner",]
+
+[personality]
+openness = 63
+conscientiousness = 82
+extraversion = 16
+agreeableness = 57
+neuroticism = 46

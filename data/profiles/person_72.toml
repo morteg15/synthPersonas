@@ -1,14 +1,23 @@
-name = "John Doe"
+name = "David Jacobsen"
+gender = "male"
 
 [age]
-years = 38
+years = 17
 
 [location]
-city = "New York"
-state = "IL"
-country = "UK"
+fylke = "Oppland"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Swimming", "Reading", "Cooking",]
-languages = [ "English", "French",]
-favorite_books = [ "1984", "Pride and Prejudice", "The Catcher in the Rye",]
+hobbies = [ "Fisking", "Strikking", "Gartneri",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Despicable Me series", "Shrek series", "Toy Story series",]
+favorite_influencers = [ "JoJo Siwa", "FGTeeV",]
+
+[personality]
+openness = 2
+conscientiousness = 69
+extraversion = 58
+agreeableness = 43
+neuroticism = 37

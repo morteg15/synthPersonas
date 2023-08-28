@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Sigurd Larsen"
+gender = "male"
 
 [age]
-years = 33
+years = 13
 
 [location]
-city = "Phoenix"
-state = "NY"
-country = "Germany"
+fylke = "Hordaland"
+living_condition = "Fjellområder"
 
 [interests]
-hobbies = [ "Gaming", "Reading", "Swimming",]
-languages = [ "Mandarin", "Spanish",]
-favorite_books = [ "1984", "To Kill a Mockingbird", "The Catcher in the Rye",]
+hobbies = [ "Svømming", "Synging", "Skating",]
+languages = [ "Norsk",]
+favorite_books = [ "Wonder", "Diary of a Wimpy Kid series", "The Wind in the Willows", "The Giver", "Harry Potter series",]
+favorite_movies = [ "Kung Fu Panda series", "Finding Nemo series", "Big Hero 6",]
+favorite_influencers = []
+
+[personality]
+openness = 46
+conscientiousness = 71
+extraversion = 75
+agreeableness = 28
+neuroticism = 35

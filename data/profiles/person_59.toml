@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Ingrid Pedersen"
+gender = "female"
 
 [age]
-years = 26
+years = 17
 
 [location]
-city = "Chicago"
-state = "NY"
-country = "Canada"
+fylke = "Buskerud"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Swimming", "Cooking", "Reading",]
-languages = [ "Mandarin", "Spanish",]
-favorite_books = [ "Moby Dick", "The Catcher in the Rye", "1984",]
+hobbies = [ "Origami", "Fotball",]
+languages = [ "Norsk",]
+favorite_books = [ "To Kill a Mockingbird",]
+favorite_movies = [ "Wreck-It Ralph series", "Zootopia",]
+favorite_influencers = [ "James Charles", "David Dobrik", "Zach King", "Jake Paul", "Ryan's World",]
+
+[personality]
+openness = 7
+conscientiousness = 62
+extraversion = 86
+agreeableness = 57
+neuroticism = 19

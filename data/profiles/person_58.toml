@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Sander Jensen"
+gender = "male"
 
 [age]
-years = 53
+years = 9
 
 [location]
-city = "Chicago"
-state = "AZ"
-country = "USA"
+fylke = "Oslo"
+living_condition = "Fjellområder"
 
 [interests]
-hobbies = [ "Swimming", "Gaming", "Cycling",]
-languages = [ "German", "Spanish",]
-favorite_books = [ "1984", "To Kill a Mockingbird", "Pride and Prejudice",]
+hobbies = [ "Astronomi", "Origami", "Skuespill",]
+languages = [ "Norsk",]
+favorite_books = []
+favorite_movies = [ "Shrek series", "Wreck-It Ralph series", "The Lion King",]
+favorite_influencers = [ "David Dobrik", "KSI",]
+
+[personality]
+openness = 11
+conscientiousness = 93
+extraversion = 0
+agreeableness = 33
+neuroticism = 71

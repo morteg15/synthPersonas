@@ -1,0 +1,14 @@
+name = "Jane Smith"
+
+[age]
+years = 42
+
+[location]
+city = "Los Angeles"
+state = "AZ"
+country = "UK"
+
+[interests]
+hobbies = [ "Cycling", "Swimming", "Reading",]
+languages = [ "Mandarin", "German",]
+favorite_books = [ "To Kill a Mockingbird", "The Catcher in the Rye", "1984",]

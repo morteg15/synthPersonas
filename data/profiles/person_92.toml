@@ -1,14 +1,23 @@
-name = "Jane Smith"
+name = "Amalie Jakobsen"
+gender = "female"
 
 [age]
-years = 46
+years = 10
 
 [location]
-city = "Phoenix"
-state = "TX"
-country = "USA"
+fylke = "Oslo"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Cycling", "Cooking", "Swimming",]
-languages = [ "Mandarin", "German",]
-favorite_books = [ "To Kill a Mockingbird", "Moby Dick", "The Catcher in the Rye",]
+hobbies = [ "Tegning",]
+languages = [ "Norsk",]
+favorite_books = [ "To Kill a Mockingbird", "Charlotte's Web", "Where the Wild Things Are",]
+favorite_movies = [ "Wreck-It Ralph series", "The Hunger Games series", "The Incredibles series", "Moana",]
+favorite_influencers = [ "TommyInnit",]
+
+[personality]
+openness = 61
+conscientiousness = 58
+extraversion = 37
+agreeableness = 66
+neuroticism = 49

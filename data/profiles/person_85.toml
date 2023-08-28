@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Emma Jørgensen"
+gender = "female"
 
 [age]
-years = 30
+years = 11
 
 [location]
-city = "Phoenix"
-state = "CA"
-country = "Australia"
+fylke = "Hedmark"
+living_condition = "Bysentrum"
 
 [interests]
-hobbies = [ "Gaming", "Swimming", "Cooking",]
-languages = [ "German", "Spanish",]
-favorite_books = [ "Moby Dick", "1984", "Pride and Prejudice",]
+hobbies = [ "Svømming",]
+languages = [ "Norsk",]
+favorite_books = [ "Anne of Green Gables", "The BFG", "Holes",]
+favorite_movies = [ "Frozen series", "Spider-Man: Into the Spider-Verse",]
+favorite_influencers = [ "Zoe Laverne", "MrBeast",]
+
+[personality]
+openness = 99
+conscientiousness = 37
+extraversion = 0
+agreeableness = 56
+neuroticism = 89

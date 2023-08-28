@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Viktor Kristiansen"
+gender = "male"
 
 [age]
-years = 50
+years = 11
 
 [location]
-city = "Los Angeles"
-state = "NY"
-country = "Germany"
+fylke = "Rogaland"
+living_condition = "Småby"
 
 [interests]
-hobbies = [ "Cooking", "Cycling", "Gaming",]
-languages = [ "German", "French",]
-favorite_books = [ "1984", "Pride and Prejudice", "The Catcher in the Rye",]
+hobbies = [ "Astronomi", "Reising",]
+languages = [ "Norsk",]
+favorite_books = [ "Anne of Green Gables", "The Chronicles of Narnia series", "The Tale of Peter Rabbit",]
+favorite_movies = [ "Finding Nemo series", "Frozen series", "Despicable Me series",]
+favorite_influencers = []
+
+[personality]
+openness = 32
+conscientiousness = 74
+extraversion = 12
+agreeableness = 12
+neuroticism = 43

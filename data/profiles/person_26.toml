@@ -1,14 +1,23 @@
-name = "Charlie Green"
+name = "Johannes Karlsen"
+gender = "male"
 
 [age]
-years = 38
+years = 17
 
 [location]
-city = "Chicago"
-state = "CA"
-country = "USA"
+fylke = "Akershus"
+living_condition = "Forsteder"
 
 [interests]
-hobbies = [ "Cooking", "Swimming", "Cycling",]
-languages = [ "English", "Mandarin",]
-favorite_books = [ "Moby Dick", "Pride and Prejudice", "1984",]
+hobbies = [ "Origami", "Tennis", "Strikking", "Skateboarding",]
+languages = [ "Norsk",]
+favorite_books = [ "Alice's Adventures in Wonderland",]
+favorite_movies = [ "Despicable Me series", "How to Train Your Dragon series", "Zootopia",]
+favorite_influencers = [ "Billie Eilish", "Zach King", "Bella Poarch", "Dwayne 'The Rock' Johnson",]
+
+[personality]
+openness = 51
+conscientiousness = 68
+extraversion = 20
+agreeableness = 97
+neuroticism = 27

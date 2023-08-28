@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Kristian Eriksen"
+gender = "male"
 
 [age]
-years = 52
+years = 10
 
 [location]
-city = "Chicago"
-state = "IL"
-country = "Germany"
+fylke = "Aust-Agder"
+living_condition = "Kystområder"
 
 [interests]
-hobbies = [ "Reading", "Cycling", "Gaming",]
-languages = [ "Spanish", "German",]
-favorite_books = [ "1984", "Moby Dick", "To Kill a Mockingbird",]
+hobbies = [ "Språklæring",]
+languages = [ "Norsk",]
+favorite_books = [ "The BFG", "Holes",]
+favorite_movies = [ "Wreck-It Ralph series", "Shrek series",]
+favorite_influencers = [ "Addison Rae",]
+
+[personality]
+openness = 36
+conscientiousness = 84
+extraversion = 70
+agreeableness = 86
+neuroticism = 39

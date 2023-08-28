@@ -1,14 +1,23 @@
-name = "Bob Brown"
+name = "Olivia Andreassen"
+gender = "female"
 
 [age]
-years = 32
+years = 9
 
 [location]
-city = "New York"
-state = "NY"
-country = "UK"
+fylke = "Hedmark"
+living_condition = "Fjellområder"
 
 [interests]
-hobbies = [ "Reading", "Cooking", "Swimming",]
-languages = [ "English", "Spanish",]
-favorite_books = [ "To Kill a Mockingbird", "The Catcher in the Rye", "Pride and Prejudice",]
+hobbies = []
+languages = [ "Norsk",]
+favorite_books = [ "Anne of Green Gables",]
+favorite_movies = [ "How to Train Your Dragon series", "Percy Jackson series",]
+favorite_influencers = [ "Addison Rae",]
+
+[personality]
+openness = 8
+conscientiousness = 85
+extraversion = 37
+agreeableness = 35
+neuroticism = 14

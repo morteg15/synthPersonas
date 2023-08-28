@@ -1,14 +1,23 @@
-name = "Alice Johnson"
+name = "Oskar Karlsen"
+gender = "male"
 
 [age]
-years = 54
+years = 10
 
 [location]
-city = "Los Angeles"
-state = "CA"
-country = "Germany"
+fylke = "Rogaland"
+living_condition = "Skogsområder"
 
 [interests]
-hobbies = [ "Cycling", "Swimming", "Reading",]
-languages = [ "German", "Mandarin",]
-favorite_books = [ "To Kill a Mockingbird", "Moby Dick", "Pride and Prejudice",]
+hobbies = [ "Kortspill", "Volleyball", "Droneflyging", "Kampsport", "Dykking",]
+languages = [ "Norsk",]
+favorite_books = [ "Lord of the Flies",]
+favorite_movies = [ "Shrek series", "Toy Story series", "The Hunger Games series", "Percy Jackson series",]
+favorite_influencers = [ "Emma Chamberlain",]
+
+[personality]
+openness = 79
+conscientiousness = 24
+extraversion = 75
+agreeableness = 83
+neuroticism = 81
