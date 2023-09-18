@@ -22,8 +22,8 @@ def send_request_to_openai(path_to_json_structure, save_filepath):
         model=jsonl_structure["model"],
         messages=jsonl_structure["messages"]
     )
-    with open(save_filepath, 'w') as f:
-        json.dump(response, f)
+    with open(save_filepath, 'w', encoding="utf8") as f:
+        json.dump(response, f, ensure_ascii=False)
 
 # # Load resonator from file
 # with open("output.jsonl", 'r') as f:

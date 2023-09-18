@@ -1,0 +1,126 @@
+{
+    "Vil du fortelle hvilke du ikke vil ha som nabo? A Personer av en annen rase alternativer velg en ['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 97.05882352941177,
+        "Nevnt": 2.3172905525846703
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo? B Alkoholikere alternativer velg en ['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 71.21212121212122,
+        "Nevnt": 28.16399286987522
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo C Innvandrere/fremmedarbeidere alternativer velg en ['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 94.8306595365419,
+        "Nevnt": 4.545454545454546
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo D Narkomane alternativer velg en ['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 56.32798573975044,
+        "Ikke nevnt": 43.04812834224599
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo E Homoseksuelle alternativer velg en ['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 96.4349376114082,
+        "Nevnt": 2.941176470588235
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo G Muslimer alternativer velg en ['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 91.88948306595366,
+        "Nevnt": 7.4866310160427805
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo H J�der alternativer velg en ['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 97.05882352941177,
+        "Nevnt": 2.3172905525846703
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo I Sig�ynere/Romfolk alternativer velg en ['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 65.68627450980392,
+        "Nevnt": 33.68983957219251
+    },
+    "Synes du at man generelt kan stole p� de fleste mennesker, eller synes du man ikke kan v�re forsiktig nok i omgangen med mennesker? alternativer velg en ['Man kan stole p� de fleste', 'Man kan ikke v�re forsiktig nok']": {
+        "Man kan stole p� de fleste": 74.24242424242425,
+        "Man kan ikke v�re forsiktig nok": 24.598930481283425
+    },
+    "Kan du fortelle om du stoler p� f�lgende grupper av personer? Familien din alternativer velg en ['Stoler fullstendig p�', 'Stoler noe p�', 'Stoler lite p�', 'Stoler ikke p�']": {
+        "Stoler fullstendig p�": 91.88948306595366,
+        "Stoler noe p�": 7.130124777183601,
+        "Stoler lite p�": 0.7130124777183601,
+        "Stoler ikke p�": 0.17825311942959002
+    },
+    "Kan du fortelle om du stoler p� f�lgende grupper av personer? Personer i nabolaget ditt alternativer velg en ['Stoler noe p�', 'Stoler fullstendig p�', 'Stoler lite p�', 'Stoler ikke p�']": {
+        "Stoler noe p�": 52.85204991087345,
+        "Stoler fullstendig p�": 38.23529411764706,
+        "Stoler lite p�": 6.23885918003565,
+        "Stoler ikke p�": 1.5151515151515151
+    },
+    "Kan du fortelle om du stoler p� f�lgende grupper av personer? Personer du kjenner personlig alternativer velg en ['Stoler fullstendig p�', 'Stoler noe p�', 'Stoler lite p�', 'Stoler ikke p�']": {
+        "Stoler fullstendig p�": 64.79500891265597,
+        "Stoler noe p�": 33.155080213903744,
+        "Stoler lite p�": 1.5151515151515151,
+        "Stoler ikke p�": 0.267379679144385
+    },
+    "Kan du fortelle om du stoler p� f�lgende grupper av personer? Personer du m�ter for f�rste gang alternativer velg en ['Stoler noe p�', 'Stoler lite p�', 'Stoler ikke p�', 'Stoler fullstendig p�']": {
+        "Stoler noe p�": 63.190730837789665,
+        "Stoler lite p�": 22.905525846702318,
+        "Stoler ikke p�": 6.7736185383244205,
+        "Stoler fullstendig p�": 6.417112299465241
+    },
+    "Kan du fortelle om du stoler p� f�lgende grupper av personer? Personer av en annen religion alternativer velg en ['Stoler noe p�', 'Stoler fullstendig p�', 'Stoler lite p�', 'Stoler ikke p�']": {
+        "Stoler noe p�": 68.00356506238859,
+        "Stoler fullstendig p�": 15.32976827094474,
+        "Stoler lite p�": 12.299465240641712,
+        "Stoler ikke p�": 2.6737967914438503
+    },
+    "Kan du fortelle om du stoler p� f�lgende grupper av personer? Personer med en annen nasjonalitet alternativer velg en ['Stoler noe p�', 'Stoler fullstendig p�', 'Stoler lite p�', 'Stoler ikke p�']": {
+        "Stoler noe p�": 68.18181818181817,
+        "Stoler fullstendig p�": 17.20142602495544,
+        "Stoler lite p�": 11.497326203208557,
+        "Stoler ikke p�": 1.5151515151515151
+    },
+    "En del mennesker mener de har full valgfrihet og selv kan bestemme hvordan livet skal bli. Andre mennesker mener at det de selv gj�r har liten innvirkning p� hva som skjer med dem. Vil du se p� denne skalaen fra 1 til 10 og vise hvor mye valgfrihet og selvbestemmelse du mener du har n�r det gjelder hvordan livet ditt blir? alternativer velg en ['8', '7', 'En hel del', '9', '6', '5', '4', '3', '2', 'Overhodet ingen']": {
+        "8": 29.411764705882355,
+        "7": 21.21212121212121,
+        "En hel del": 16.844919786096256,
+        "9": 15.597147950089127,
+        "6": 7.040998217468805,
+        "5": 5.704099821746881,
+        "4": 1.7825311942959003,
+        "3": 0.9803921568627451,
+        "2": 0.8912655971479502,
+        "Overhodet ingen": 0.4456327985739751
+    },
+    "Alt i alt, hvor tilfreds er du med livet ditt for tiden? Svar ved hjelp av denne skalaen fra 1 til 10. alternativer velg en ['8', '9', 'Sv�rt tilfreds', '7', '6', '5', '4', '3', 'Sv�rt utilfreds', '2']": {
+        "8": 32.79857397504456,
+        "9": 22.01426024955437,
+        "Sv�rt tilfreds": 18.89483065953654,
+        "7": 13.19073083778966,
+        "6": 4.901960784313726,
+        "5": 4.010695187165775,
+        "4": 1.7825311942959003,
+        "3": 1.5151515151515151,
+        "Sv�rt utilfreds": 0.4456327985739751,
+        "2": 0.35650623885918004
+    },
+    "hvilken forhold med jobben anser du som viktig God l�nn alternativer velg en ['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 66.31016042780749,
+        "Ikke nevnt": 33.60071301247772
+    },
+    "hvilken forhold med jobben anser du som viktig God arbeidstid alternativer velg en ['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 57.308377896613194,
+        "Ikke nevnt": 42.60249554367201
+    },
+    "hvilken forhold med jobben anser du som viktig Mulighet til � ta initiativ alternativer velg en ['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 60.249554367201426,
+        "Ikke nevnt": 39.66131907308378
+    },
+    "hvilken forhold med jobben anser du som viktig Lang ferie alternativer velg en ['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 75.93582887700535,
+        "Nevnt": 23.97504456327986
+    },
+    "hvilken forhold med jobben anser du som viktig Et arbeid som gir f�lelsen av � utrette noe alternativer velg en ['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 86.18538324420678,
+        "Ikke nevnt": 13.725490196078432
+    },
+    "hvilken forhold med jobben anser du som viktig En ansvarsfull jobb alternativer velg en ['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 55.70409982174688,
+        "Ikke nevnt": 44.20677361853833
+    },
+    "Ingen av disse (spontant) alternativer velg en ['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 98.57397504456328,
+        "Nevnt": 1.3368983957219251
+    }
+}

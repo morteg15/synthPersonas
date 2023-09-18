@@ -128,7 +128,7 @@
             
             <!-- Updated profile image path and made it clickable -->
             <a href="{{ url_for('display_profile', session_name=session_name, profile_id=profile_id) }}">
-                <img src="{{ url_for('serve_picture', filename='profilepicture_' + profile_id + '.jpg') }}" alt="Profile Image" class="profile-image">
+                <img src="{{ url_for('serve_picture', filename='profilepicture_' + profile_id + '.png') }}" alt="Profile Image" class="profile-image">
             </a>
             
             <div class="message assistant">

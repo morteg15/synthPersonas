@@ -1,0 +1,405 @@
+{
+    "v1": {
+        "Hvor viktig er hvert av følgende områder i livet ditt? Arbeid": {
+            "1.0": "Svært viktig",
+            "2.0": "Ganske viktig",
+            "3.0": "Ikke viktig",
+            "4.0": "Slett ikke viktig",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v2": {
+        "Hvor viktig er hvert av følgende områder i livet ditt? Familie": {
+            "1.0": "Svært viktig",
+            "2.0": "Ganske viktig",
+            "3.0": "Ikke viktig",
+            "4.0": "Slett ikke viktig",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v3": {
+        "Hvor viktig er hvert av følgende områder i livet ditt? Venner og bekjente": {
+            "1.0": "Svært viktig",
+            "2.0": "Ganske viktig",
+            "3.0": "Ikke viktig",
+            "4.0": "Slett ikke viktig",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v4": {
+        "Hvor viktig er hvert av følgende områder i livet ditt? Fritid": {
+            "1.0": "Svært viktig",
+            "2.0": "Ganske viktig",
+            "3.0": "Ikke viktig",
+            "4.0": "Slett ikke viktig",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v5": {
+        "Hvor viktig er hvert av følgende områder i livet ditt? Politikk": {
+            "1.0": "Svært viktig",
+            "2.0": "Ganske viktig",
+            "3.0": "Ikke viktig",
+            "4.0": "Slett ikke viktig",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v6": {
+        "Hvor viktig er hvert av følgende områder i livet ditt? Religion": {
+            "1.0": "Svært viktig",
+            "2.0": "Ganske viktig",
+            "3.0": "Ikke viktig",
+            "4.0": "Slett ikke viktig",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v7": {
+        "Alt i alt, vil du si at du er:": {
+            "1.0": "Meget lykkelig",
+            "2.0": "Ganske lykkelig",
+            "3.0": "Ikke spesielt lykkelig",
+            "4.0": "Slett ikke lykkelig"
+        }
+    },
+    "v8": {
+        "Hvordan vil du beskrive din nåværende allmenne helsetilstand?": {
+            "1.0": "Meget bra",
+            "2.0": "Bra",
+            "3.0": "Middels",
+            "4.0": "Dårlig",
+            "5.0": "Meget dårlig",
+            "8.0": "Vet ikke (spontant)",
+            "9.0": "Ikke svar (spontant)"
+        }
+    },
+    "v9": {
+        "kan du fortelle meg om du er medlem i noen av disse? A Kirkelig eller religiøs organisasjon": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v10": {
+        "kan du fortelle meg om du er medlem i noen av disse? B Kunst-, kultur-, musikk- eller studiegruppe": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v11": {
+        "kan du fortelle meg om du er medlem i noen av disse? C Fagforening": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v12": {
+        "kan du fortelle meg om du er medlem i noen av disse? D Politisk parti eller partipolitisk forening": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v13": {
+        "kan du fortelle meg om du er medlem i noen av disse? E Naturvern-, miljøvern- eller dyrevernsorganisasjon": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v14": {
+        "kan du fortelle meg om du er medlem i noen av disse? F Yrkesorganisasjon": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v15": {
+        "kan du fortelle meg om du er medlem i noen av disse? G Idrettslag, tur- eller trimforening": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v16": {
+        "kan du fortelle meg om du er medlem i noen av disse? H Humanitær eller veldedig organisasjon": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v17": {
+        "kan du fortelle meg om du er medlem i noen av disse? I Forbrukerorganisasjon": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v18": {
+        "kan du fortelle meg om du er medlem i noen av disse? J Selvhjelpsgruppe, støttegruppe": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v19": {
+        "Kkan du fortelle meg om du er medlem i noen av disse?  Andre frivillige lag og organisasjoner": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v20": {
+        "kan du fortelle meg om du er medlem i noen av disse? L Ingen (spontant)": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v21": {
+        "Har du utført frivillig arbeid de siste 6 måneder?": {
+            "1.0": "Ja",
+            "2.0": "Nei",
+            "8.0": "Vet ikke (spontant)",
+            "9.0": "Ikke svar (spontant)"
+        }
+    },
+    "v22": {
+        "Vil du fortelle hvilke du ikke vil ha som nabo? A Personer av en annen rase": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v23": {
+        "Vil du fortelle hvilke du ikke vil ha som nabo? B Alkoholikere": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v24": {
+        "Vil du fortelle hvilke du ikke vil ha som nabo C Innvandrere/fremmedarbeidere": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v25": {
+        "Vil du fortelle hvilke du ikke vil ha som nabo D Narkomane": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v26": {
+        "Vil du fortelle hvilke du ikke vil ha som nabo E Homoseksuelle": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v28": {
+        "Vil du fortelle hvilke du ikke vil ha som nabo G Muslimer": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v29": {
+        "Vil du fortelle hvilke du ikke vil ha som nabo H Jøder": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v30": {
+        "Vil du fortelle hvilke du ikke vil ha som nabo I Sigøynere/Romfolk": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v31": {
+        "Synes du at man generelt kan stole på de fleste mennesker, eller synes du man ikke kan være forsiktig nok i omgangen med mennesker?": {
+            "1.0": "Man kan stole på de fleste",
+            "2.0": "Man kan ikke være forsiktig nok",
+            "8.0": "Vet ikke (spontant)",
+            "9.0": "Ikke svar (spontant)"
+        }
+    },
+    "v32": {
+        "Kan du fortelle om du stoler på følgende grupper av personer? Familien din": {
+            "1.0": "Stoler fullstendig på",
+            "2.0": "Stoler noe på",
+            "3.0": "Stoler lite på",
+            "4.0": "Stoler ikke på",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v33": {
+        "Kan du fortelle om du stoler på følgende grupper av personer? Personer i nabolaget ditt": {
+            "1.0": "Stoler fullstendig på",
+            "2.0": "Stoler noe på",
+            "3.0": "Stoler lite på",
+            "4.0": "Stoler ikke på",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v34": {
+        "Kan du fortelle om du stoler på følgende grupper av personer? Personer du kjenner personlig": {
+            "1.0": "Stoler fullstendig på",
+            "2.0": "Stoler noe på",
+            "3.0": "Stoler lite på",
+            "4.0": "Stoler ikke på",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v35": {
+        "Kan du fortelle om du stoler på følgende grupper av personer? Personer du møter for første gang": {
+            "1.0": "Stoler fullstendig på",
+            "2.0": "Stoler noe på",
+            "3.0": "Stoler lite på",
+            "4.0": "Stoler ikke på",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v36": {
+        "Kan du fortelle om du stoler på følgende grupper av personer? Personer av en annen religion": {
+            "1.0": "Stoler fullstendig på",
+            "2.0": "Stoler noe på",
+            "3.0": "Stoler lite på",
+            "4.0": "Stoler ikke på",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v37": {
+        "Kan du fortelle om du stoler på følgende grupper av personer? Personer med en annen nasjonalitet": {
+            "1.0": "Stoler fullstendig på",
+            "2.0": "Stoler noe på",
+            "3.0": "Stoler lite på",
+            "4.0": "Stoler ikke på",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v38": {
+        "En del mennesker mener de har full valgfrihet og selv kan bestemme hvordan livet skal bli. Andre mennesker mener at det de selv gjør har liten innvirkning på hva som skjer med dem. Vil du se på denne skalaen fra 1 til 10 og vise hvor mye valgfrihet og selvbestemmelse du mener du har når det gjelder hvordan livet ditt blir?": {
+            "1.0": "Overhodet ingen",
+            "2.0": "2",
+            "3.0": "3",
+            "4.0": "4",
+            "5.0": "5",
+            "6.0": "6",
+            "7.0": "7",
+            "8.0": "8",
+            "9.0": "9",
+            "10.0": "En hel del",
+            "88.0": "Vet ikke",
+            "99.0": "Ikke svart"
+        }
+    },
+    "v39": {
+        "Alt i alt, hvor tilfreds er du med livet ditt for tiden? Svar ved hjelp av denne skalaen fra 1 til 10.": {
+            "1.0": "Svært utilfreds",
+            "2.0": "2",
+            "3.0": "3",
+            "4.0": "4",
+            "5.0": "5",
+            "6.0": "6",
+            "7.0": "7",
+            "8.0": "8",
+            "9.0": "9",
+            "10.0": "Svært tilfreds",
+            "88.0": "Vet ikke",
+            "99.0": "Ikke svart"
+        }
+    },
+    "v40": {
+        "hvilken forhold med jobben anser du som viktig God lønn": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v41": {
+        "hvilken forhold med jobben anser du som viktig God arbeidstid": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v42": {
+        "hvilken forhold med jobben anser du som viktig Mulighet til å ta initiativ": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v43": {
+        "hvilken forhold med jobben anser du som viktig Lang ferie": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v44": {
+        "hvilken forhold med jobben anser du som viktig Et arbeid som gir følelsen av å utrette noe": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v45": {
+        "hvilken forhold med jobben anser du som viktig En ansvarsfull jobb": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    },
+    "v45a": {
+        "Ingen av disse (spontant)": {
+            "1.0": "Nevnt",
+            "2.0": "Ikke nevnt",
+            "8.0": "Vet ikke",
+            "9.0": "Ikke svart"
+        }
+    }
+}

@@ -3,4 +3,9 @@
 
 
 source/api/session
+source/api/session_ga
 source/api/utils/config.init
+dyrepark_data/
+
+data/session_data_processed
+data/test_data

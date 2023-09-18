@@ -9,7 +9,7 @@ SESSION_FOLDER = 'source\\api\session'
 
 def read_responses(path):
     responses = []
-    with open(path, 'r') as f:
+    with open(path, 'r', encoding="utf8") as f:
         lines = f.readlines()
         json_objs = [json.loads(line) for line in lines]
         for messages in json_objs:
@@ -34,7 +34,7 @@ def get_all_profiles(session_folder, new_session: bool = False):
     profiles = {}
     folder_path = session_folder + "\\profiles" if not new_session else PROFILE_FOLDER
     for profile_file in os.listdir(folder_path):
-        with open(os.path.join(folder_path, profile_file), 'r') as f:
+        with open(os.path.join(folder_path, profile_file), 'r', encoding="latin1") as f:
             profiles[profile_file] = f.read()
     return profiles
 
