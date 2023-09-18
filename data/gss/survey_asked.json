@@ -1,0 +1,92 @@
+{
+    
+    "Hvor viktig er hvert av følgende områder i livet ditt? Arbeid Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Svært viktig', 'Ganske viktig', 'Ikke viktig', 'Slett ikke viktig']": {
+        "Svært viktig": 62.745098039215684,
+        "Ganske viktig": 29.946524064171122,
+        "Ikke viktig": 4.545454545454546,
+        "Slett ikke viktig": 2.5846702317290555
+    },
+    "Hvor viktig er hvert av følgende områder i livet ditt? Familie Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Svært viktig', 'Ganske viktig', 'Ikke viktig', 'Slett ikke viktig']": {
+        "Svært viktig": 92.51336898395722,
+        "Ganske viktig": 7.040998217468805,
+        "Ikke viktig": 0.267379679144385,
+        "Slett ikke viktig": 0.17825311942959002
+    },
+    "Hvor viktig er hvert av følgende områder i livet ditt? Venner og bekjente Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Svært viktig', 'Ganske viktig', 'Ikke viktig', 'Slett ikke viktig']": {
+        "Svært viktig": 61.58645276292335,
+        "Ganske viktig": 36.54188948306595,
+        "Ikke viktig": 1.7825311942959003,
+        "Slett ikke viktig": 0.08912655971479501
+    },
+    "Hvor viktig er hvert av følgende områder i livet ditt? Fritid Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Svært viktig', 'Ganske viktig', 'Ikke viktig', 'Slett ikke viktig']": {
+        "Svært viktig": 51.33689839572193,
+        "Ganske viktig": 44.47415329768271,
+        "Ikke viktig": 3.3868092691622103,
+        "Slett ikke viktig": 0.53475935828877
+    },
+    "Hvor viktig er hvert av følgende områder i livet ditt? Politikk Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ganske viktig', 'Ikke viktig', 'Svært viktig', 'Slett ikke viktig']": {
+        "Ganske viktig": 57.04099821746881,
+        "Ikke viktig": 24.242424242424242,
+        "Svært viktig": 13.725490196078432,
+        "Slett ikke viktig": 4.901960784313726
+    },
+    "Hvor viktig er hvert av følgende områder i livet ditt? Religion Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke viktig', 'Ganske viktig', 'Slett ikke viktig', 'Svært viktig']": {
+        "Ikke viktig": 46.4349376114082,
+        "Ganske viktig": 23.1729055258467,
+        "Slett ikke viktig": 18.71657754010695,
+        "Svært viktig": 11.408199643493761
+    },
+    "Alt i alt, vil du si at du er: Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ganske lykkelig', 'Meget lykkelig', 'Ikke spesielt lykkelig', 'Slett ikke lykkelig']": {
+        "Ganske lykkelig": 53.20855614973262,
+        "Meget lykkelig": 41.17647058823529,
+        "Ikke spesielt lykkelig": 4.81283422459893,
+        "Slett ikke lykkelig": 0.53475935828877
+    },
+    "Hvordan vil du beskrive din nåværende allmenne helsetilstand? Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Bra', 'Meget bra', 'Middels', 'Dårlig', 'Meget dårlig']": {
+        "Bra": 42.513368983957214,
+        "Meget bra": 36.007130124777184,
+        "Middels": 15.953654188948308,
+        "Dårlig": 4.723707664884135,
+        "Meget dårlig": 0.8021390374331552
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? A Kirkelig eller religiøs organisasjon Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 75.75757575757575,
+        "Nevnt": 24.242424242424242
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? B Kunst-, kultur-, musikk- eller studiegruppe Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 84.40285204991088,
+        "Nevnt": 15.597147950089127
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? C Fagforening Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 61.942959001782526,
+        "Nevnt": 38.05704099821747
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? D Politisk parti eller partipolitisk forening Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 90.9982174688057,
+        "Nevnt": 9.001782531194296
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? E Naturvern-, miljøvern- eller dyrevernsorganisasjon Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 93.40463458110517,
+        "Nevnt": 6.59536541889483
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? F Yrkesorganisasjon Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 84.67023172905526,
+        "Nevnt": 15.32976827094474
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? G Idrettslag, tur- eller trimforening Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 64.97326203208557,
+        "Nevnt": 35.02673796791444
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? H Humanitær eller veldedig organisasjon Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 79.50089126559715,
+        "Nevnt": 20.499108734402853
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? I Forbrukerorganisasjon Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 94.02852049910874,
+        "Nevnt": 5.971479500891266
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? J Selvhjelpsgruppe, støttegruppe Gi kort! begrunnelse og velg et av Alternativer NB! Du må velge kun ett alternativ fra listen :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 96.88057040998217,
+        "Nevnt": 3.119429590017825
+    }
+}

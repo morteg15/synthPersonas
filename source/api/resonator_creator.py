@@ -29,7 +29,7 @@ def generate_jsonl_structure(question, user_messages, outputfile, mode="opinion"
         "model": "gpt-3.5-turbo",
         "messages": [
             {"role": "user", "content": question},  # Question as the first system message
-            {"role": "system", "content": "I am a resonator. I read through many messages and find the general opinion or the correct result."}
+            {"role": "system", "content": "jeg er tenkeren jeg leser igjenom kommentarer å finner den generelle meningen jeg ignorer kommentarer som ikke fokuserer på spørsmålet. Jeg skriver den generelle meningen å lister opp fordelingen slik [' n%',  n%, ...] husk at meldinende skal representere en større gruppe oppgi svaret i %"}
         ]
     }
 
@@ -39,16 +39,13 @@ def generate_jsonl_structure(question, user_messages, outputfile, mode="opinion"
 
     # Add system response based on mode
     if mode == "opinion":
-        jsonl_structure["messages"].append({"role": "user", "content": "Based on the messages, the general opinion is [summary/opinion]."})
+        jsonl_structure["messages"].append({"role": "user", "content": "Bassert på kommentarene hva er den generelle meningen det som er mest populeært og skriv den og vis forholdene i chatlogen med prosenti en liste"})
     else:
         jsonl_structure["messages"].append({"role": "user", "content": "Based on the messages, the most likely correct result is [result]."})
 
-
-
     # Save to file
-    with open(outputfile, 'w') as f:
-        f.write(json.dumps(jsonl_structure, indent=2))
-
+    with open(outputfile, 'w', encoding='utf8') as f:
+        f.write(json.dumps(jsonl_structure))
     print(f"Resonator saved to " + outputfile)
 
     # return jsonl_structure

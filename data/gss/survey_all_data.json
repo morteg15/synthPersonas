@@ -1,0 +1,227 @@
+{
+    "Hvor viktig er hvert av følgende områder i livet ditt? Arbeid Alternativer NB Du må inkludere ett av dem i svaret :['Svært viktig', 'Ganske viktig', 'Ikke viktig', 'Slett ikke viktig']": {
+        "Svært viktig": 62.745098039215684,
+        "Ganske viktig": 29.946524064171122,
+        "Ikke viktig": 4.545454545454546,
+        "Slett ikke viktig": 2.5846702317290555
+    },
+    "Hvor viktig er hvert av følgende områder i livet ditt? Familie Alternativer NB Du må inkludere ett av dem i svaret :['Svært viktig', 'Ganske viktig', 'Ikke viktig', 'Slett ikke viktig']": {
+        "Svært viktig": 92.51336898395722,
+        "Ganske viktig": 7.040998217468805,
+        "Ikke viktig": 0.267379679144385,
+        "Slett ikke viktig": 0.17825311942959002
+    },
+    "Hvor viktig er hvert av følgende områder i livet ditt? Venner og bekjente Alternativer NB Du må inkludere ett av dem i svaret :['Svært viktig', 'Ganske viktig', 'Ikke viktig', 'Slett ikke viktig']": {
+        "Svært viktig": 61.58645276292335,
+        "Ganske viktig": 36.54188948306595,
+        "Ikke viktig": 1.7825311942959003,
+        "Slett ikke viktig": 0.08912655971479501
+    },
+    "Hvor viktig er hvert av følgende områder i livet ditt? Fritid Alternativer NB Du må inkludere ett av dem i svaret :['Svært viktig', 'Ganske viktig', 'Ikke viktig', 'Slett ikke viktig']": {
+        "Svært viktig": 51.33689839572193,
+        "Ganske viktig": 44.47415329768271,
+        "Ikke viktig": 3.3868092691622103,
+        "Slett ikke viktig": 0.53475935828877
+    },
+    "Hvor viktig er hvert av følgende områder i livet ditt? Politikk Alternativer NB Du må inkludere ett av dem i svaret :['Ganske viktig', 'Ikke viktig', 'Svært viktig', 'Slett ikke viktig']": {
+        "Ganske viktig": 57.04099821746881,
+        "Ikke viktig": 24.242424242424242,
+        "Svært viktig": 13.725490196078432,
+        "Slett ikke viktig": 4.901960784313726
+    },
+    "Hvor viktig er hvert av følgende områder i livet ditt? Religion Alternativer NB Du må inkludere ett av dem i svaret :['Ikke viktig', 'Ganske viktig', 'Slett ikke viktig', 'Svært viktig']": {
+        "Ikke viktig": 46.4349376114082,
+        "Ganske viktig": 23.1729055258467,
+        "Slett ikke viktig": 18.71657754010695,
+        "Svært viktig": 11.408199643493761
+    },
+    "Alt i alt, vil du si at du er: Alternativer NB Du må inkludere ett av dem i svaret :['Ganske lykkelig', 'Meget lykkelig', 'Ikke spesielt lykkelig', 'Slett ikke lykkelig']": {
+        "Ganske lykkelig": 53.20855614973262,
+        "Meget lykkelig": 41.17647058823529,
+        "Ikke spesielt lykkelig": 4.81283422459893,
+        "Slett ikke lykkelig": 0.53475935828877
+    },
+    "Hvordan vil du beskrive din nåværende allmenne helsetilstand? Alternativer NB Du må inkludere ett av dem i svaret :['Bra', 'Meget bra', 'Middels', 'Dårlig', 'Meget dårlig']": {
+        "Bra": 42.513368983957214,
+        "Meget bra": 36.007130124777184,
+        "Middels": 15.953654188948308,
+        "Dårlig": 4.723707664884135,
+        "Meget dårlig": 0.8021390374331552
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? A Kirkelig eller religiøs organisasjon Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 75.75757575757575,
+        "Nevnt": 24.242424242424242
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? B Kunst-, kultur-, musikk- eller studiegruppe Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 84.40285204991088,
+        "Nevnt": 15.597147950089127
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? C Fagforening Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 61.942959001782526,
+        "Nevnt": 38.05704099821747
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? D Politisk parti eller partipolitisk forening Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 90.9982174688057,
+        "Nevnt": 9.001782531194296
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? E Naturvern-, miljøvern- eller dyrevernsorganisasjon Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 93.40463458110517,
+        "Nevnt": 6.59536541889483
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? F Yrkesorganisasjon Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 84.67023172905526,
+        "Nevnt": 15.32976827094474
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? G Idrettslag, tur- eller trimforening Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 64.97326203208557,
+        "Nevnt": 35.02673796791444
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? H Humanitær eller veldedig organisasjon Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 79.50089126559715,
+        "Nevnt": 20.499108734402853
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? I Forbrukerorganisasjon Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 94.02852049910874,
+        "Nevnt": 5.971479500891266
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? J Selvhjelpsgruppe, støttegruppe Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 96.88057040998217,
+        "Nevnt": 3.119429590017825
+    },
+    "Kkan du fortelle meg om du er medlem i noen av disse?  Andre frivillige lag og organisasjoner Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 79.05525846702317,
+        "Nevnt": 20.944741532976828
+    },
+    "kan du fortelle meg om du er medlem i noen av disse? L Ingen (spontant) Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 81.63992869875223,
+        "Nevnt": 18.36007130124777
+    },
+    "Har du utført frivillig arbeid de siste 6 måneder? Alternativer NB Du må inkludere ett av dem i svaret :['Nei', 'Ja']": {
+        "Nei": 52.584670231729056,
+        "Ja": 47.32620320855615
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo? A Personer av en annen rase Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 97.05882352941177,
+        "Nevnt": 2.3172905525846703
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo? B Alkoholikere Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 71.21212121212122,
+        "Nevnt": 28.16399286987522
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo C Innvandrere/fremmedarbeidere Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 94.8306595365419,
+        "Nevnt": 4.545454545454546
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo D Narkomane Alternativer NB Du må inkludere ett av dem i svaret :['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 56.32798573975044,
+        "Ikke nevnt": 43.04812834224599
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo E Homoseksuelle Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 96.4349376114082,
+        "Nevnt": 2.941176470588235
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo G Muslimer Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 91.88948306595366,
+        "Nevnt": 7.4866310160427805
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo H Jøder Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 97.05882352941177,
+        "Nevnt": 2.3172905525846703
+    },
+    "Vil du fortelle hvilke du ikke vil ha som nabo I Sigøynere/Romfolk Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 65.68627450980392,
+        "Nevnt": 33.68983957219251
+    },
+    "Synes du at man generelt kan stole på de fleste mennesker, eller synes du man ikke kan være forsiktig nok i omgangen med mennesker? Alternativer NB Du må inkludere ett av dem i svaret :['Man kan stole på de fleste', 'Man kan ikke være forsiktig nok']": {
+        "Man kan stole på de fleste": 74.24242424242425,
+        "Man kan ikke være forsiktig nok": 24.598930481283425
+    },
+    "Kan du fortelle om du stoler på følgende grupper av personer? Familien din Alternativer NB Du må inkludere ett av dem i svaret :['Stoler fullstendig på', 'Stoler noe på', 'Stoler lite på', 'Stoler ikke på']": {
+        "Stoler fullstendig på": 91.88948306595366,
+        "Stoler noe på": 7.130124777183601,
+        "Stoler lite på": 0.7130124777183601,
+        "Stoler ikke på": 0.17825311942959002
+    },
+    "Kan du fortelle om du stoler på følgende grupper av personer? Personer i nabolaget ditt Alternativer NB Du må inkludere ett av dem i svaret :['Stoler noe på', 'Stoler fullstendig på', 'Stoler lite på', 'Stoler ikke på']": {
+        "Stoler noe på": 52.85204991087345,
+        "Stoler fullstendig på": 38.23529411764706,
+        "Stoler lite på": 6.23885918003565,
+        "Stoler ikke på": 1.5151515151515151
+    },
+    "Kan du fortelle om du stoler på følgende grupper av personer? Personer du kjenner personlig Alternativer NB Du må inkludere ett av dem i svaret :['Stoler fullstendig på', 'Stoler noe på', 'Stoler lite på', 'Stoler ikke på']": {
+        "Stoler fullstendig på": 64.79500891265597,
+        "Stoler noe på": 33.155080213903744,
+        "Stoler lite på": 1.5151515151515151,
+        "Stoler ikke på": 0.267379679144385
+    },
+    "Kan du fortelle om du stoler på følgende grupper av personer? Personer du møter for første gang Alternativer NB Du må inkludere ett av dem i svaret :['Stoler noe på', 'Stoler lite på', 'Stoler ikke på', 'Stoler fullstendig på']": {
+        "Stoler noe på": 63.190730837789665,
+        "Stoler lite på": 22.905525846702318,
+        "Stoler ikke på": 6.7736185383244205,
+        "Stoler fullstendig på": 6.417112299465241
+    },
+    "Kan du fortelle om du stoler på følgende grupper av personer? Personer av en annen religion Alternativer NB Du må inkludere ett av dem i svaret :['Stoler noe på', 'Stoler fullstendig på', 'Stoler lite på', 'Stoler ikke på']": {
+        "Stoler noe på": 68.00356506238859,
+        "Stoler fullstendig på": 15.32976827094474,
+        "Stoler lite på": 12.299465240641712,
+        "Stoler ikke på": 2.6737967914438503
+    },
+    "Kan du fortelle om du stoler på følgende grupper av personer? Personer med en annen nasjonalitet Alternativer NB Du må inkludere ett av dem i svaret :['Stoler noe på', 'Stoler fullstendig på', 'Stoler lite på', 'Stoler ikke på']": {
+        "Stoler noe på": 68.18181818181817,
+        "Stoler fullstendig på": 17.20142602495544,
+        "Stoler lite på": 11.497326203208557,
+        "Stoler ikke på": 1.5151515151515151
+    },
+    "En del mennesker mener de har full valgfrihet og selv kan bestemme hvordan livet skal bli. Andre mennesker mener at det de selv gjør har liten innvirkning på hva som skjer med dem. Vil du se på denne skalaen fra 1 til 10 og vise hvor mye valgfrihet og selvbestemmelse du mener du har når det gjelder hvordan livet ditt blir? Alternativer NB Du må inkludere ett av dem i svaret :['8', '7', 'En hel del', '9', '6', '5', '4', '3', '2', 'Overhodet ingen']": {
+        "8": 29.411764705882355,
+        "7": 21.21212121212121,
+        "En hel del": 16.844919786096256,
+        "9": 15.597147950089127,
+        "6": 7.040998217468805,
+        "5": 5.704099821746881,
+        "4": 1.7825311942959003,
+        "3": 0.9803921568627451,
+        "2": 0.8912655971479502,
+        "Overhodet ingen": 0.4456327985739751
+    },
+    "Alt i alt, hvor tilfreds er du med livet ditt for tiden? Svar ved hjelp av denne skalaen fra 1 til 10. Alternativer NB Du må inkludere ett av dem i svaret :['8', '9', 'Svært tilfreds', '7', '6', '5', '4', '3', 'Svært utilfreds', '2']": {
+        "8": 32.79857397504456,
+        "9": 22.01426024955437,
+        "Svært tilfreds": 18.89483065953654,
+        "7": 13.19073083778966,
+        "6": 4.901960784313726,
+        "5": 4.010695187165775,
+        "4": 1.7825311942959003,
+        "3": 1.5151515151515151,
+        "Svært utilfreds": 0.4456327985739751,
+        "2": 0.35650623885918004
+    },
+    "hvilken forhold med jobben anser du som viktig God lønn Alternativer NB Du må inkludere ett av dem i svaret :['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 66.31016042780749,
+        "Ikke nevnt": 33.60071301247772
+    },
+    "hvilken forhold med jobben anser du som viktig God arbeidstid Alternativer NB Du må inkludere ett av dem i svaret :['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 57.308377896613194,
+        "Ikke nevnt": 42.60249554367201
+    },
+    "hvilken forhold med jobben anser du som viktig Mulighet til å ta initiativ Alternativer NB Du må inkludere ett av dem i svaret :['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 60.249554367201426,
+        "Ikke nevnt": 39.66131907308378
+    },
+    "hvilken forhold med jobben anser du som viktig Lang ferie Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 75.93582887700535,
+        "Nevnt": 23.97504456327986
+    },
+    "hvilken forhold med jobben anser du som viktig Et arbeid som gir følelsen av å utrette noe Alternativer NB Du må inkludere ett av dem i svaret :['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 86.18538324420678,
+        "Ikke nevnt": 13.725490196078432
+    },
+    "hvilken forhold med jobben anser du som viktig En ansvarsfull jobb Alternativer NB Du må inkludere ett av dem i svaret :['Nevnt', 'Ikke nevnt']": {
+        "Nevnt": 55.70409982174688,
+        "Ikke nevnt": 44.20677361853833
+    },
+    "Ingen av disse (spontant) Alternativer NB Du må inkludere ett av dem i svaret :['Ikke nevnt', 'Nevnt']": {
+        "Ikke nevnt": 98.57397504456328,
+        "Nevnt": 1.3368983957219251
+    }
+}

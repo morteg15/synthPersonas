@@ -251,6 +251,9 @@ class StatusTracker:
     time_of_last_rate_limit_error: int = 0  # used to cool off after hitting rate limits
 
 
+
+TIMEOUT_SECONDS = 10
+
 @dataclass
 class APIRequest:
     """Stores an API request's inputs, outputs, and other metadata. Contains a method to make an API call."""
@@ -276,7 +279,7 @@ class APIRequest:
         try:
             async with aiohttp.ClientSession() as session:
                 async with session.post(
-                    url=request_url, headers=request_header, json=self.request_json
+                    url=request_url, headers=request_header, json=self.request_json, timeout=TIMEOUT_SECONDS
                 ) as response:
                     response = await response.json()
             if "error" in response:
@@ -397,7 +400,7 @@ def task_id_generator_function():
         task_id += 1
 
 
-def run_parallel_processor(requests_filepath, save_filepath=None, request_url="https://api.openai.com/v1/embeddings", api_key=None, max_requests_per_minute=1500, max_tokens_per_minute=6250000, token_encoding_name="cl100k_base", max_attempts=5, logging_level=20):
+def run_parallel_processor(requests_filepath, save_filepath=None, request_url="https://api.openai.com/v1/embeddings", api_key=None, max_requests_per_minute=1500, max_tokens_per_minute=50000, token_encoding_name="cl100k_base", max_attempts=5, logging_level=20):
     if save_filepath is None:
         save_filepath = requests_filepath.replace(".jsonl", "_results.jsonl")
     if api_key is None:
@@ -427,7 +430,7 @@ if __name__ == "__main__":
     parser.add_argument("--save_filepath", default=None)
     parser.add_argument("--request_url", default="https://api.openai.com/v1/embeddings")
     parser.add_argument("--api_key", default=os.getenv("OPENAI_API_KEY"))
-    parser.add_argument("--max_requests_per_minute", type=int, default=3_000 * 0.5)
+    parser.add_argument("--max_requests_per_minute", type=int, default=100 * 0.5)
     parser.add_argument("--max_tokens_per_minute", type=int, default=250_000 * 0.5)
     parser.add_argument("--token_encoding_name", default="cl100k_base")
     parser.add_argument("--max_attempts", type=int, default=5)
